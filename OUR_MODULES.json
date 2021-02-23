@@ -6994,6 +6994,7 @@
         "account_invoice_extract_purchase",
         "account_lock",
         "account_online_sync",
+        "account_online_synchronization",
         "account_payment",
         "account_plaid",
         "account_ponto",
