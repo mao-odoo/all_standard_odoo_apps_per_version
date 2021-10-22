@@ -1,5 +1,5 @@
 # all_standard_odoo_apps_per_version
-A file listing all the names of standard Odoo apps
+A file listing all the names of standard Odoo apps per version.
 
 
 
