@@ -4410,7 +4410,6 @@
         "test_marketing_automation",
         "test_mass_mailing",
         "test_mimetypes",
-        "test_module",
         "test_new_api",
         "test_performance",
         "test_populate",
