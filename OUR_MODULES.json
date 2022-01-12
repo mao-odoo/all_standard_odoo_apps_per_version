@@ -2414,6 +2414,7 @@
         "account_facturx",
         "account_followup",
         "account_intrastat",
+        "account_intrastat_expiry",
         "account_invoice_extract",
         "account_invoice_extract_purchase",
         "account_lock",
