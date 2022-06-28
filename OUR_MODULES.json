@@ -2759,6 +2759,7 @@
         "partner_commission",
         "payment",
         "payment_adyen",
+        "payment_adyen_paybylink",
         "payment_alipay",
         "payment_authorize",
         "payment_buckaroo",
