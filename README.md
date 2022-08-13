@@ -1,6 +1,6 @@
 # all_standard_odoo_apps_per_version
 ## OUR_MODULES.json
-A file listing all the names of standard Odoo apps per version.
+A file listing all the names of standard Odoo apps per version (community and enterprise).
 
 Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES.json
 
