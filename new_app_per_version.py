@@ -8,6 +8,7 @@ import sys
 # a sorted list of the versions
 # (in git branch format)
 VERSIONS = [
+    "16.0",
     "saas-15.2",
     "saas-15.1",
     "15.0",
