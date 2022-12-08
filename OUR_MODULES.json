@@ -4883,7 +4883,6 @@
         "http_routing",
         "hw_drivers",
         "hw_escpos",
-        "hw_l10n_eg_eta",
         "hw_posbox_homepage",
         "iap",
         "iap_crm",
