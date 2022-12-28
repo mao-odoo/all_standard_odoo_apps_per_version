@@ -15,10 +15,11 @@ def app(version, modules):
     with open(DATA) as json_file:
         data = json.load(json_file)
     standard_modules = set(data[version])
+    standard_modules.add('studio_customization')
     s_modules = '\n'.join(m for m in modules if m in standard_modules)
     ns_modules = '\n'.join(m for m in modules if m not in standard_modules)
     print("\n\nStandard Modules:\n-----------------\n%s" % s_modules)
-    print("\n\nNon Standard Modules:\n---------------------\n%s" % ns_modules)
+    print("\n\nThird-party Modules:\n---------------------\n%s" % ns_modules)
 
 
 if __name__ == '__main__':
