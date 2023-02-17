@@ -3,7 +3,6 @@
 Show the standard apps present in a version that did not exist in the previous one
 """
 import json
-import sys
 
 # a sorted list of the versions
 # (in git branch format)
@@ -49,13 +48,12 @@ VERSIONS = [_fmt_version(v) for v in VERSIONS]
 def app():
     with open("OUR_MODULES.json") as json_file:
         OUR_MODULES = json.load(json_file)
-    res = dict()
-    for vA, vB in zip(VERSIONS, VERSIONS[1:]):
-        res[f"{vA} - {vB}"] = [m for m in OUR_MODULES[vA] if m not in OUR_MODULES[vB]]
-    return res
+    return {
+        f"{vA} - {vB}": [m for m in OUR_MODULES[vA] if m not in OUR_MODULES[vB]]
+        for vA, vB in zip(VERSIONS, VERSIONS[1:])
+    }
 
 if __name__ == "__main__":
     for diff, modules in app().items():
         print(diff, ":")
-        print(modules)
-        print("\n"*5)
+        print(modules, "\n")
