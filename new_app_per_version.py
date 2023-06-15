@@ -39,8 +39,10 @@ SPECIAL_CASES = {
     "saas-3": "7.saas-3",
 }
 
+
 def _fmt_version(version):
     return SPECIAL_CASES.get(version, version).replace("-", "~")
+
 
 # a sorted list of the versions
 # (in "internal" format)
@@ -50,10 +52,12 @@ VERSIONS = [_fmt_version(v) for v in VERSIONS]
 def app():
     with open("OUR_MODULES.json") as json_file:
         OUR_MODULES = json.load(json_file)
+
     return {
-        f"{vA} - {vB}": [m for m in OUR_MODULES[vA] if m not in OUR_MODULES[vB]]
+        f"{vA} - {vB}": OUR_MODULES[vA]["+"]
         for vA, vB in zip(VERSIONS, VERSIONS[1:])
     }
+
 
 if __name__ == "__main__":
     for diff, modules in app().items():

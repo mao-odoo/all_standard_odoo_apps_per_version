@@ -11,10 +11,32 @@ import sys
 
 DATA = "OUR_MODULES.json"
 
-def app(version, modules):
+
+def parse_version(version: str) -> float:
+    return float(version.replace("saas~", ""))
+
+
+def app(target_version, modules):
     with open(DATA) as json_file:
         data = json.load(json_file)
-    standard_modules = set(data[version])
+
+    if target_version not in data:
+        print(f"Version does not exists: {target_version}")
+        print("Available versions:")
+        for version in sorted(data.keys(), key=parse_version):
+            print(f" - {version}")
+
+        return
+
+    standard_modules: set[str] = set()
+
+    # Sort the versions and compute the list of modules
+    # by adding new modules and removing old ones
+    for version, mods in sorted(data.items(), key=lambda v: parse_version(v[0])):
+        standard_modules = (standard_modules - set(mods["-"])) | set(mods["+"])
+        if version == target_version:
+            break
+
     standard_modules.add('studio_customization')
     s_modules = '\n'.join(m for m in modules if m in standard_modules)
     ns_modules = '\n'.join(m for m in modules if m not in standard_modules)
