@@ -50,7 +50,7 @@ VERSIONS = [_fmt_version(v) for v in VERSIONS]
 
 
 def app():
-    with open("OUR_MODULES.json") as json_file:
+    with open("OUR_MODULES_DIFF.json") as json_file:
         OUR_MODULES = json.load(json_file)
 
     return {

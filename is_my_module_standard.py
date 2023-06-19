@@ -9,7 +9,7 @@ usage:
 import json
 import sys
 
-DATA = "OUR_MODULES.json"
+DATA = "OUR_MODULES_DIFF.json"
 
 
 def parse_version(version: str) -> float:
