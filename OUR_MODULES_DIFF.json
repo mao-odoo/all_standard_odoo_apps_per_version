@@ -2158,7 +2158,6 @@
             "event_sale_dashboard",
             "l10n_de_datev_reports",
             "l10n_hr_euro",
-            "l10n_sa_edi_pos",
             "l10n_th_reports",
             "pos_cache",
             "project_timesheet_forecast_contract",
@@ -2189,6 +2188,7 @@
             "l10n_ro_hr_payroll_account",
             "l10n_sk_hr_payroll",
             "l10n_sk_hr_payroll_account",
+            "l10n_th_reports",
             "l10n_tn",
             "l10n_tn_reports",
             "pos_preparation_display",
@@ -2212,7 +2212,7 @@
             "l10n_latam_account_sequence",
             "l10n_lu_peppol_id",
             "l10n_multilang",
-            "l10n_tw_reports",
+            "l10n_sa_edi_pos",
             "pos_daily_sales_reports",
             "project_timesheet_synchro",
             "purchase_price_diff",
@@ -2255,12 +2255,41 @@
             "l10n_mx_edi_stock_40",
             "l10n_mx_edi_stock_extended_40",
             "l10n_pe_edi_stock_20",
+            "l10n_th_reports",
             "note",
             "pos_epson_printer_restaurant",
             "pos_restaurant_iot",
             "web_kanban_gauge",
             "website_event_crm_questions",
             "website_event_questions"
+        ]
+    },
+    "saas~16.4": {
+        "+": [
+            "account_accountant_fleet",
+            "account_avatax_stock",
+            "hr_holidays_contract_gantt",
+            "hr_homeworking",
+            "hr_livechat",
+            "l10n_br_sales",
+            "l10n_ca_reports",
+            "l10n_cl_edi_pos",
+            "l10n_gr_reports",
+            "l10n_ie_reports",
+            "pos_online_payment",
+            "pos_online_payment_self_order",
+            "pos_online_payment_self_order_preparation_display",
+            "pos_restaurant_appointment",
+            "stock_barcode_quality_mrp"
+        ],
+        "-": [
+            "industry_fsm_forecast",
+            "l10n_de_skr03",
+            "l10n_de_skr04",
+            "l10n_in_upi",
+            "l10n_pe_reports_book",
+            "mrp_workorder_hr",
+            "website_sale_stock_product_configurator"
         ]
     }
 }
