@@ -2255,7 +2255,6 @@
             "l10n_mx_edi_stock_40",
             "l10n_mx_edi_stock_extended_40",
             "l10n_pe_edi_stock_20",
-            "l10n_th_reports",
             "note",
             "pos_epson_printer_restaurant",
             "pos_restaurant_iot",
@@ -2288,6 +2287,7 @@
             "l10n_de_skr04",
             "l10n_in_upi",
             "l10n_pe_reports_book",
+            "l10n_th_reports",
             "mrp_workorder_hr",
             "website_sale_stock_product_configurator"
         ]
