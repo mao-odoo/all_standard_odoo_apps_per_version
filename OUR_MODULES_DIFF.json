@@ -1981,6 +1981,7 @@
             "l10n_in_reports_gstr",
             "l10n_in_reports_gstr_pos",
             "l10n_in_tcs_tds",
+            "l10n_it_edi_pa",
             "l10n_it_edi_withholding",
             "l10n_ke_hr_payroll",
             "l10n_ke_hr_payroll_account",
@@ -2216,6 +2217,7 @@
             "l10n_generic_auto_transfer_demo",
             "l10n_generic_coa",
             "l10n_in_tcs_tds",
+            "l10n_it_edi_pa",
             "l10n_latam_account_sequence",
             "l10n_lu_peppol_id",
             "l10n_multilang",
@@ -2253,7 +2255,16 @@
             "sale_subscription_stock",
             "spreadsheet_dashboard_sale_subscription",
             "spreadsheet_dashboard_website_sale",
-            "test_spreadsheet"
+            "test_spreadsheet",
+            "test_whatsapp",
+            "whatsapp",
+            "whatsapp_account",
+            "whatsapp_delivery",
+            "whatsapp_event",
+            "whatsapp_payment",
+            "whatsapp_pos",
+            "whatsapp_sale",
+            "whatsapp_website_sale"
         ],
         "-": [
             "l10n_hk_hr_payroll_hsbc_autopay",
@@ -2295,7 +2306,16 @@
             "l10n_in_upi",
             "l10n_pe_reports_book",
             "mrp_workorder_hr",
-            "website_sale_stock_product_configurator"
+            "test_whatsapp",
+            "website_sale_stock_product_configurator",
+            "whatsapp",
+            "whatsapp_account",
+            "whatsapp_delivery",
+            "whatsapp_event",
+            "whatsapp_payment",
+            "whatsapp_pos",
+            "whatsapp_sale",
+            "whatsapp_website_sale"
         ]
     }
 }
