@@ -1936,6 +1936,7 @@
     },
     "16.0": {
         "+": [
+            "account_bacs",
             "account_base_import",
             "account_payment_invoice_online_payment_patch",
             "account_sequence",
@@ -2173,6 +2174,7 @@
             "website_cf_turnstile"
         ],
         "-": [
+            "account_bacs",
             "account_predictive_bills",
             "association",
             "event_sale_dashboard",
@@ -2308,6 +2310,7 @@
             "pos_online_payment",
             "pos_online_payment_self_order",
             "pos_online_payment_self_order_preparation_display",
+            "pos_paytm",
             "pos_restaurant_appointment",
             "stock_barcode_quality_mrp"
         ],
