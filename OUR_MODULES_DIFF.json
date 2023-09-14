@@ -2174,7 +2174,6 @@
             "website_cf_turnstile"
         ],
         "-": [
-            "account_bacs",
             "account_predictive_bills",
             "association",
             "event_sale_dashboard",
@@ -2219,6 +2218,7 @@
             "website_sale_ups"
         ],
         "-": [
+            "account_bacs",
             "account_payment_invoice_online_payment_patch",
             "account_sequence",
             "barcodes_mobile",
@@ -2230,10 +2230,6 @@
             "l10n_latam_account_sequence",
             "l10n_lu_peppol_id",
             "l10n_multilang",
-            "l10n_pl_jpk",
-            "l10n_pl_reports_jpk",
-            "l10n_pl_reports_pos_jpk",
-            "l10n_pl_sale_stock",
             "l10n_sa_edi_pos",
             "pos_daily_sales_reports",
             "project_timesheet_synchro",
