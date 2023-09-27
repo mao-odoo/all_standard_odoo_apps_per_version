@@ -2030,6 +2030,7 @@
             "payment_razorpay",
             "pos_daily_sales_reports",
             "pos_hr_restaurant",
+            "pos_iot_six",
             "pos_restaurant_stripe",
             "pos_sale_loyalty",
             "pos_stripe",
@@ -2180,6 +2181,7 @@
             "l10n_de_datev_reports",
             "l10n_hr_euro",
             "pos_cache",
+            "pos_iot_six",
             "project_timesheet_forecast_contract",
             "sale_enterprise",
             "spreadsheet_dashboard_sale_expense"
@@ -2218,7 +2220,6 @@
             "website_sale_ups"
         ],
         "-": [
-            "account_bacs",
             "account_payment_invoice_online_payment_patch",
             "account_sequence",
             "barcodes_mobile",
@@ -2301,6 +2302,7 @@
             "l10n_br_sales",
             "l10n_ca_reports",
             "l10n_cl_edi_pos",
+            "l10n_dk_oioubl",
             "l10n_gr_reports",
             "l10n_ie_reports",
             "pos_online_payment",
