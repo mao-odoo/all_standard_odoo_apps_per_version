@@ -2181,7 +2181,6 @@
             "l10n_de_datev_reports",
             "l10n_hr_euro",
             "pos_cache",
-            "pos_iot_six",
             "project_timesheet_forecast_contract",
             "sale_enterprise",
             "spreadsheet_dashboard_sale_expense"
@@ -2233,6 +2232,7 @@
             "l10n_multilang",
             "l10n_sa_edi_pos",
             "pos_daily_sales_reports",
+            "pos_iot_six",
             "project_timesheet_synchro",
             "purchase_price_diff",
             "sale_subscription_dashboard",
