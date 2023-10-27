@@ -7,6 +7,7 @@ import json
 # a sorted list of the versions
 # (in git branch format)
 VERSIONS = [
+    "17.0",
     "saas-16.4",
     "saas-16.3",
     "saas-16.2",
