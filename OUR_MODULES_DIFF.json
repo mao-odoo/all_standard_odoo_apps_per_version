@@ -2338,6 +2338,7 @@
             "frontdesk",
             "hr_attendance_gantt",
             "hr_work_entry_contract_planning_attendance",
+            "l10n_account_customer_statements",
             "l10n_ar_pos",
             "l10n_at_saft",
             "l10n_au_hr_payroll",
@@ -2379,6 +2380,7 @@
             "website_appointment_account_payment",
             "website_appointment_sale",
             "website_documents",
+            "website_generator",
             "website_helpdesk_sale_loyalty",
             "website_sale_external_tax"
         ],
@@ -2396,6 +2398,7 @@
             "l10n_pl_reports_jpk",
             "l10n_pl_sale_stock",
             "loyalty_delivery",
+            "pos_hr_l10n_be",
             "purchase_enterprise",
             "sale_quotation_builder",
             "sale_temporal",
