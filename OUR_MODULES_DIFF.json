@@ -1440,6 +1440,7 @@
             "data_merge_stock_account",
             "data_merge_utm",
             "delivery_iot",
+            "delivery_ups_rest",
             "digest_enterprise",
             "documents_l10n_be_hr_payroll",
             "documents_l10n_be_hr_payroll_273S_274",
@@ -1831,6 +1832,7 @@
         "-": [
             "account_sepa_pain_001_001_09",
             "data_merge_stock_account",
+            "delivery_ups_rest",
             "hr_payroll_account_sepa_09",
             "l10n_bg",
             "l10n_bg_reports",
