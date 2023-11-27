@@ -2367,6 +2367,7 @@
             "pos_self_order_preparation_display",
             "pos_self_order_sale",
             "pos_self_order_stripe",
+            "pos_viva_wallet",
             "room",
             "sale_external_tax",
             "sale_management_renting",
