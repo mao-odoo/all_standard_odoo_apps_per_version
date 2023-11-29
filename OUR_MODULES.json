@@ -15280,6 +15280,7 @@
         "delivery_shiprocket",
         "delivery_stock_picking_batch",
         "delivery_ups",
+        "delivery_ups_rest",
         "delivery_usps",
         "digest",
         "digest_enterprise",
