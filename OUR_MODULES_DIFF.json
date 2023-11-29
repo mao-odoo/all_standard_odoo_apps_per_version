@@ -2393,7 +2393,6 @@
         "-": [
             "account_avatax_sale_subscription",
             "account_sepa_pain_001_001_09",
-            "delivery_ups_rest",
             "event_barcode",
             "hr_payroll_account_sepa_09",
             "l10n_ae_pos",
