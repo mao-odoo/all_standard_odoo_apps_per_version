@@ -2332,6 +2332,7 @@
     "17.0": {
         "+": [
             "account_external_tax",
+            "account_payment_term",
             "account_saft_import",
             "appointment_account_payment",
             "appointment_google_calendar",
