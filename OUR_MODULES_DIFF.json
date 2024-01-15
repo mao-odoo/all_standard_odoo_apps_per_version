@@ -2235,7 +2235,6 @@
             "barcodes_mobile",
             "event_barcode_mobile",
             "hr_attendance_mobile",
-            "l10n_be_pos_sale",
             "l10n_generic_auto_transfer_demo",
             "l10n_generic_coa",
             "l10n_in_tcs_tds",
@@ -2290,6 +2289,7 @@
             "whatsapp_website_sale"
         ],
         "-": [
+            "l10n_be_pos_sale",
             "l10n_hk_hr_payroll_hsbc_autopay",
             "l10n_mx_edi_40",
             "l10n_mx_edi_extended_40",
