@@ -2190,7 +2190,6 @@
             "event_sale_dashboard",
             "l10n_de_datev_reports",
             "l10n_hr_euro",
-            "l10n_lt_intrastat",
             "pos_cache",
             "project_timesheet_forecast_contract",
             "sale_enterprise",
@@ -2291,6 +2290,7 @@
         "-": [
             "l10n_be_pos_sale",
             "l10n_hk_hr_payroll_hsbc_autopay",
+            "l10n_lt_intrastat",
             "l10n_mx_edi_40",
             "l10n_mx_edi_extended_40",
             "l10n_mx_edi_stock_40",
@@ -2311,6 +2311,7 @@
             "hr_holidays_contract_gantt",
             "hr_homeworking",
             "hr_livechat",
+            "l10n_be_pos_sale",
             "l10n_br_sales",
             "l10n_ca_reports",
             "l10n_cl_edi_pos",
@@ -2373,6 +2374,7 @@
             "l10n_in_documents",
             "l10n_jp_ubl_pint",
             "l10n_lt_saft_import",
+            "l10n_pe_pos",
             "l10n_pe_website_sale",
             "l10n_ro_edi",
             "l10n_ro_saft_import",
@@ -2417,6 +2419,7 @@
             "event_barcode",
             "hr_payroll_account_sepa_09",
             "l10n_ae_pos",
+            "l10n_be_pos_sale",
             "l10n_br_avatax_sale",
             "l10n_it_edi_pa",
             "l10n_ke_hr_payroll_bik",
@@ -2436,6 +2439,26 @@
             "website_sale_digital",
             "website_sale_renting_comparison",
             "website_sale_renting_wishlist"
+        ]
+    },
+    "saas~17.1": {
+        "+": [
+            "l10n_employment_hero",
+            "l10n_uk_bacs",
+            "mrp_subcontracting_landed_costs",
+            "project_enterprise_hr_skills",
+            "project_hr_skills",
+            "resource_mail",
+            "website_project"
+        ],
+        "-": [
+            "account_bacs",
+            "l10n_au_keypay",
+            "l10n_be_codabox_bridge",
+            "l10n_es_edi_facturae_adm_centers",
+            "l10n_pe_pos",
+            "mrp_subonctracting_landed_costs",
+            "website_form_project"
         ]
     }
 }
