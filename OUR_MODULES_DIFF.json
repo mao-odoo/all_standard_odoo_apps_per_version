@@ -2331,7 +2331,6 @@
             "l10n_de_skr03",
             "l10n_de_skr04",
             "l10n_in_upi",
-            "l10n_lt_intrastat",
             "l10n_pe_reports_book",
             "mrp_workorder_hr",
             "website_sale_stock_product_configurator"
@@ -2384,6 +2383,7 @@
             "l10n_us_hr_payroll_account",
             "maintenance_worksheet",
             "marketing_automation_crm",
+            "payment_xendit",
             "pos_order_tracking_display",
             "pos_pricer",
             "pos_self_order_adyen",
@@ -2423,6 +2423,7 @@
             "l10n_br_avatax_sale",
             "l10n_it_edi_pa",
             "l10n_ke_hr_payroll_bik",
+            "l10n_lt_intrastat",
             "l10n_lu_reports_annual_vat_2023",
             "l10n_pl_jpk",
             "l10n_pl_reports_jpk",
@@ -2453,12 +2454,10 @@
             "account_bacs",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
-            "l10n_be_pos_sale",
             "l10n_es_edi_facturae_adm_centers",
-            "l10n_mx_edi_stock_30",
-            "l10n_mx_edi_stock_extended_30",
             "l10n_pe_pos",
             "mrp_subonctracting_landed_costs",
+            "payment_xendit",
             "website_form_project"
         ]
     }
