@@ -2190,7 +2190,6 @@
             "association",
             "event_sale_dashboard",
             "l10n_de_datev_reports",
-            "l10n_ec_reports_ats",
             "l10n_hr_euro",
             "pos_cache",
             "project_timesheet_forecast_contract",
@@ -2324,7 +2323,8 @@
             "pos_online_payment_self_order_preparation_display",
             "pos_paytm",
             "pos_restaurant_appointment",
-            "stock_barcode_quality_mrp"
+            "stock_barcode_quality_mrp",
+            "stock_landed_costs_company"
         ],
         "-": [
             "industry_fsm_forecast",
@@ -2369,13 +2369,14 @@
             "l10n_dk_bookkeeping",
             "l10n_dk_edi",
             "l10n_dk_saft_import",
-            "l10n_ec_reports_ats",
+            "l10n_es_edi_facturae_invoice_period",
             "l10n_es_pos",
             "l10n_in_documents",
             "l10n_jp_ubl_pint",
             "l10n_lt_saft_import",
             "l10n_pe_pos",
             "l10n_pe_website_sale",
+            "l10n_ph_reports",
             "l10n_ro_edi",
             "l10n_ro_saft_import",
             "l10n_se_sie_import",
@@ -2388,6 +2389,7 @@
             "pos_pricer",
             "pos_self_order_adyen",
             "pos_self_order_epson_printer",
+            "pos_self_order_iot",
             "pos_self_order_preparation_display",
             "pos_self_order_sale",
             "pos_self_order_stripe",
@@ -2423,7 +2425,6 @@
             "l10n_br_avatax_sale",
             "l10n_it_edi_pa",
             "l10n_ke_hr_payroll_bik",
-            "l10n_lt_intrastat",
             "l10n_lu_reports_annual_vat_2023",
             "l10n_pl_jpk",
             "l10n_pl_reports_jpk",
@@ -2456,8 +2457,8 @@
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
             "l10n_pe_pos",
+            "l10n_ph_reports",
             "mrp_subonctracting_landed_costs",
-            "payment_xendit",
             "website_form_project"
         ]
     }
