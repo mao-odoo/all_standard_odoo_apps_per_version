@@ -2428,7 +2428,6 @@
             "hr_payroll_account_sepa_09",
             "l10n_ae_pos",
             "l10n_br_avatax_sale",
-            "l10n_in_reports_gstr_spreadsheet",
             "l10n_it_edi_pa",
             "l10n_ke_hr_payroll_bik",
             "l10n_lu_reports_annual_vat_2023",
@@ -2462,6 +2461,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_in_reports_gstr_spreadsheet",
             "l10n_pe_pos",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
