@@ -2462,7 +2462,6 @@
             "account_bacs",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
-            "l10n_dk_audit_trail",
             "l10n_es_edi_facturae_adm_centers",
             "l10n_pe_pos",
             "mrp_subonctracting_landed_costs",
