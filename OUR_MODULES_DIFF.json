@@ -2378,6 +2378,7 @@
             "l10n_es_edi_facturae_invoice_period",
             "l10n_es_pos",
             "l10n_in_documents",
+            "l10n_in_qr_code_bill_scan",
             "l10n_jp_ubl_pint",
             "l10n_lt_saft_import",
             "l10n_pe_pos",
@@ -2463,6 +2464,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_in_qr_code_bill_scan",
             "l10n_pe_pos",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
