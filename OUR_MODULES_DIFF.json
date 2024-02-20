@@ -2416,6 +2416,7 @@
             "test_l10n_hk_hr_payroll_account",
             "test_l10n_us_hr_payroll_account",
             "test_spreadsheet_edition",
+            "test_web_studio",
             "test_website_sale_full",
             "web_hierarchy",
             "website_appointment_account_payment",
@@ -2466,6 +2467,7 @@
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
+            "test_web_studio",
             "website_form_project"
         ]
     }
