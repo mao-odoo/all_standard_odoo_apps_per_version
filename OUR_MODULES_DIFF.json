@@ -2371,6 +2371,7 @@
             "l10n_br_website_sale",
             "l10n_ch_hr_payroll",
             "l10n_ch_hr_payroll_account",
+            "l10n_cz_reports",
             "l10n_dk_audit_trail",
             "l10n_dk_bookkeeping",
             "l10n_dk_edi",
@@ -2465,9 +2466,9 @@
             "account_bacs",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
+            "l10n_cz_reports",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
-            "test_web_studio",
             "website_form_project"
         ]
     }
