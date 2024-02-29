@@ -2469,7 +2469,6 @@
         ],
         "-": [
             "account_bacs",
-            "delivery_starshipit",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
