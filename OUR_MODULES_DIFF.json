@@ -2395,6 +2395,7 @@
             "l10n_ro_saft_import",
             "l10n_se_sie_import",
             "l10n_ug",
+            "l10n_uk_customer_statements",
             "l10n_us_hr_payroll",
             "l10n_us_hr_payroll_account",
             "maintenance_worksheet",
@@ -2472,6 +2473,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_uk_customer_statements",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
