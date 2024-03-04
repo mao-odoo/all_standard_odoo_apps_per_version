@@ -1910,7 +1910,9 @@
             "l10n_lu_reports_annual_vat_2023",
             "l10n_mx_edi_40",
             "l10n_mx_edi_extended_40",
+            "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_40",
+            "l10n_mx_edi_stock_extended_30",
             "l10n_mx_edi_stock_extended_40",
             "l10n_mx_xml_polizas_edi",
             "l10n_my",
@@ -2148,6 +2150,8 @@
             "l10n_es_reports_2023_2",
             "l10n_it_edi_sdicoop",
             "l10n_lu_reports_annual_vat",
+            "l10n_mx_edi_stock_30",
+            "l10n_mx_edi_stock_extended_30",
             "l10n_mx_xml_polizas_edi",
             "l10n_nl_edi",
             "l10n_nl_report_intrastat",
@@ -2403,6 +2407,7 @@
             "payment_xendit",
             "pos_order_tracking_display",
             "pos_pricer",
+            "pos_razorpay",
             "pos_self_order_adyen",
             "pos_self_order_epson_printer",
             "pos_self_order_iot",
@@ -2475,6 +2480,7 @@
             "l10n_es_edi_facturae_adm_centers",
             "l10n_uk_customer_statements",
             "mrp_subonctracting_landed_costs",
+            "pos_razorpay",
             "website_form_project"
         ]
     }
