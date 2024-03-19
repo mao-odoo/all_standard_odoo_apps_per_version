@@ -2486,5 +2486,45 @@
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
+    },
+    "saas~17.2": {
+        "+": [
+            "hr_holidays_contract",
+            "industry_fsm_repair",
+            "l10n_ae_reports",
+            "l10n_ca_payment_cpa005",
+            "l10n_cy",
+            "l10n_cy_reports",
+            "l10n_fr_account",
+            "l10n_fr_intrastat",
+            "l10n_hk_reports",
+            "l10n_lv_reports",
+            "l10n_mt",
+            "l10n_mt_reports",
+            "l10n_test_pos_qr_payment",
+            "l10n_us_hr_payroll_adp"
+        ],
+        "-": [
+            "account_payment_term",
+            "account_reports_tax_reminder",
+            "account_taxcloud",
+            "l10n_be_codabox_bridge_wizard",
+            "l10n_br_pix",
+            "l10n_dk_audit_trail",
+            "l10n_dk_edi",
+            "l10n_es_edi_facturae_invoice_period",
+            "l10n_fr_fec",
+            "l10n_mx_edi_stock_30",
+            "l10n_mx_edi_stock_extended_30",
+            "mrp_subcontracting_studio",
+            "sale_account_taxcloud",
+            "sale_amazon_taxcloud",
+            "sale_loyalty_taxcloud",
+            "sale_loyalty_taxcloud_delivery",
+            "sale_subscription_taxcloud",
+            "stock_account_enterprise",
+            "stock_landed_costs_company",
+            "website_sale_account_taxcloud"
+        ]
     }
 }
