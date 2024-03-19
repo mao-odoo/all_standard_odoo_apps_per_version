@@ -2021,6 +2021,7 @@
             "l10n_mz_reports",
             "l10n_nl_reports_sbr",
             "l10n_nl_reports_sbr_icp",
+            "l10n_nl_reports_sbr_ob_nummer",
             "l10n_pe_reports",
             "l10n_pl_jpk",
             "l10n_pl_reports",
@@ -2201,6 +2202,7 @@
             "event_sale_dashboard",
             "l10n_de_datev_reports",
             "l10n_hr_euro",
+            "l10n_nl_reports_sbr_ob_nummer",
             "pos_cache",
             "project_timesheet_forecast_contract",
             "sale_enterprise",
@@ -2390,6 +2392,7 @@
             "l10n_in_qr_code_bill_scan",
             "l10n_jp_ubl_pint",
             "l10n_lt_saft_import",
+            "l10n_my_reports",
             "l10n_pe_pos",
             "l10n_pe_website_sale",
             "l10n_ph_reports",
@@ -2479,6 +2482,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_my_reports",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
