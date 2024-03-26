@@ -2453,7 +2453,6 @@
             "l10n_it_edi_pa",
             "l10n_ke_hr_payroll_bik",
             "l10n_lu_reports_annual_vat_2023",
-            "l10n_nl_reports_sbr_ob_nummer",
             "l10n_pl_jpk",
             "l10n_pl_reports_jpk",
             "l10n_pl_sale_stock",
@@ -2484,6 +2483,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_nl_reports_sbr_ob_nummer",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
