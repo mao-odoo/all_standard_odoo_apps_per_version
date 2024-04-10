@@ -2376,6 +2376,7 @@
             "l10n_br_edi",
             "l10n_br_edi_sale",
             "l10n_br_pix",
+            "l10n_br_sale_subscription",
             "l10n_br_test_avatax_sale",
             "l10n_br_website_sale",
             "l10n_ch_hr_payroll",
@@ -2483,6 +2484,7 @@
             "account_bacs",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
+            "l10n_br_sale_subscription",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
