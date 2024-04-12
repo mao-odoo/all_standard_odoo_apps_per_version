@@ -2396,6 +2396,7 @@
             "l10n_lt_saft_import",
             "l10n_mu_account",
             "l10n_my_reports",
+            "l10n_my_ubl_pint",
             "l10n_pe_pos",
             "l10n_pe_website_sale",
             "l10n_ph_reports",
@@ -2484,7 +2485,6 @@
             "account_bacs",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
-            "l10n_br_sale_subscription",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
