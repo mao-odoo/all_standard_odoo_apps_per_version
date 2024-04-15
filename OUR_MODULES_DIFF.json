@@ -1954,6 +1954,7 @@
             "account_bacs",
             "account_base_import",
             "account_payment_invoice_online_payment_patch",
+            "account_reconcile_wizard",
             "account_sequence",
             "appointment_sms",
             "base_install_request",
@@ -2198,6 +2199,7 @@
         ],
         "-": [
             "account_predictive_bills",
+            "account_reconcile_wizard",
             "association",
             "event_sale_dashboard",
             "l10n_de_datev_reports",
