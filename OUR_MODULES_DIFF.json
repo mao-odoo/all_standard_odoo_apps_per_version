@@ -2426,6 +2426,7 @@
             "pos_viva_wallet",
             "room",
             "sale_amazon_avatax",
+            "sale_async_emails",
             "sale_external_tax",
             "sale_management_renting",
             "sale_mrp_renting",
