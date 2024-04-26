@@ -2499,6 +2499,7 @@
     },
     "saas~17.1": {
         "+": [
+            "documents_account_peppol",
             "l10n_employment_hero",
             "l10n_uk_bacs",
             "mrp_subcontracting_landed_costs",
@@ -2538,6 +2539,7 @@
             "account_payment_term",
             "account_reports_tax_reminder",
             "account_taxcloud",
+            "documents_account_peppol",
             "l10n_be_codabox_bridge_wizard",
             "l10n_br_avatax_services",
             "l10n_br_edi_sale_services",
