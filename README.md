@@ -2,12 +2,12 @@
 
 
 ## OUR_MODULES_DIFF.json
-A file listing all the names of standard Odoo apps introduced and removed in each version (community and enterprise).
+A file listing all the names of standard Odoo apps introduced and removed in each version (community, design-themes, enterprise and inductry).
 
 Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json
 
 ## OUR_MODULES.json  (deprecated)
-A file listing all the names of standard Odoo apps per version (community and enterprise).
+A file listing all the names of standard Odoo apps per version (community, design-themes, enterprise and inductry).
 This file will soon stop being updated, and in the next few months will be removed from the repository.
 It has been replaced by OUR_MODULES_DIFF.json
 
