@@ -2428,6 +2428,7 @@
             "l10n_gn",
             "l10n_gq",
             "l10n_gw",
+            "l10n_hu_edi",
             "l10n_in_documents",
             "l10n_in_qr_code_bill_scan",
             "l10n_jp_ubl_pint",
@@ -2543,6 +2544,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_hu_edi",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
@@ -2564,7 +2566,10 @@
             "l10n_mt",
             "l10n_mt_reports",
             "l10n_test_pos_qr_payment",
-            "l10n_us_hr_payroll_adp"
+            "l10n_us_hr_payroll_adp",
+            "product_barcodelookup",
+            "stock_barcode_account_barcodelookup",
+            "stock_barcode_barcodelookup"
         ],
         "-": [
             "account_payment_term",
