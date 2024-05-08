@@ -2439,6 +2439,8 @@
             "l10n_my_reports",
             "l10n_my_ubl_pint",
             "l10n_ne",
+            "l10n_ng",
+            "l10n_ng_reports",
             "l10n_pe_pos",
             "l10n_pe_website_sale",
             "l10n_ph_reports",
@@ -2545,6 +2547,8 @@
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
             "l10n_hu_edi",
+            "l10n_ng",
+            "l10n_ng_reports",
             "mrp_subonctracting_landed_costs",
             "website_form_project"
         ]
