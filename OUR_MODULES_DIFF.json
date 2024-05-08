@@ -2484,6 +2484,7 @@
             "sale_subscription_external_tax",
             "sale_timesheet_enterprise_holidays",
             "software_reseller",
+            "solar_installation",
             "sports_club",
             "spreadsheet_dashboard_hr_payroll",
             "surveyor",
@@ -2547,9 +2548,8 @@
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
             "l10n_hu_edi",
-            "l10n_ng",
-            "l10n_ng_reports",
             "mrp_subonctracting_landed_costs",
+            "solar_installation",
             "website_form_project"
         ]
     },
@@ -2587,6 +2587,8 @@
             "l10n_fr_fec",
             "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_extended_30",
+            "l10n_ng",
+            "l10n_ng_reports",
             "mrp_subcontracting_studio",
             "sale_account_taxcloud",
             "sale_amazon_taxcloud",
