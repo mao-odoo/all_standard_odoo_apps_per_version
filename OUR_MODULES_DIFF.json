@@ -2572,6 +2572,7 @@
             "l10n_test_pos_qr_payment",
             "l10n_us_hr_payroll_adp",
             "product_barcodelookup",
+            "solar_installation",
             "stock_barcode_account_barcodelookup",
             "stock_barcode_barcodelookup"
         ],
@@ -2587,8 +2588,6 @@
             "l10n_fr_fec",
             "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_extended_30",
-            "l10n_ng",
-            "l10n_ng_reports",
             "mrp_subcontracting_studio",
             "sale_account_taxcloud",
             "sale_amazon_taxcloud",
