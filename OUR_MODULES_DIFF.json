@@ -2464,6 +2464,7 @@
             "non_profit_organization",
             "payment_xendit",
             "photography",
+            "pos_mercado_pago",
             "pos_order_tracking_display",
             "pos_pricer",
             "pos_razorpay",
@@ -2549,6 +2550,7 @@
             "l10n_es_edi_facturae_adm_centers",
             "l10n_hu_edi",
             "mrp_subonctracting_landed_costs",
+            "pos_mercado_pago",
             "solar_installation",
             "website_form_project"
         ]
