@@ -2424,6 +2424,7 @@
             "l10n_ec_website_sale",
             "l10n_es_edi_facturae_invoice_period",
             "l10n_es_pos",
+            "l10n_es_pos_tbai",
             "l10n_es_sale_amazon",
             "l10n_ga",
             "l10n_gn",
@@ -2552,6 +2553,7 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_es_pos_tbai",
             "mrp_subonctracting_landed_costs",
             "solar_installation",
             "website_form_project"
