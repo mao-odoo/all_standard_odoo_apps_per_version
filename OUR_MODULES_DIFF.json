@@ -2368,6 +2368,7 @@
             "certification_organism",
             "clothing_boutique",
             "coal_petroleum",
+            "condominium",
             "construction",
             "corporate_gifts",
             "delivery_starshipit",
@@ -2549,6 +2550,7 @@
         ],
         "-": [
             "account_bacs",
+            "condominium",
             "construction",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
@@ -2561,6 +2563,7 @@
     },
     "saas~17.2": {
         "+": [
+            "condominium",
             "construction",
             "hr_holidays_contract",
             "industry_fsm_repair",
