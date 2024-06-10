@@ -2422,6 +2422,7 @@
             "l10n_dk_bookkeeping",
             "l10n_dk_edi",
             "l10n_dk_saft_import",
+            "l10n_ec_edi_pos",
             "l10n_ec_website_sale",
             "l10n_es_edi_facturae_invoice_period",
             "l10n_es_pos",
@@ -2469,6 +2470,7 @@
             "micro_brewery",
             "non_profit_organization",
             "payment_xendit",
+            "pharmacy_retail",
             "photography",
             "pos_mercado_pago",
             "pos_order_tracking_display",
@@ -2554,8 +2556,10 @@
             "construction",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
+            "l10n_ec_edi_pos",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
+            "pharmacy_retail",
             "solar_installation",
             "website_form_project"
         ]
