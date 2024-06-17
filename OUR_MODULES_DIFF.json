@@ -2354,6 +2354,7 @@
     },
     "17.0": {
         "+": [
+            "account_accountant_check_printing",
             "account_audit_trail",
             "account_external_tax",
             "account_payment_term",
@@ -2418,6 +2419,7 @@
             "l10n_ci",
             "l10n_cm",
             "l10n_cz_reports",
+            "l10n_de_audit_trail",
             "l10n_dk_audit_trail",
             "l10n_dk_bookkeeping",
             "l10n_dk_edi",
@@ -2436,6 +2438,7 @@
             "l10n_in_documents",
             "l10n_in_ewaybill_stock",
             "l10n_in_qr_code_bill_scan",
+            "l10n_it_edi_doi",
             "l10n_jp_ubl_pint",
             "l10n_km",
             "l10n_lt_saft_import",
@@ -2580,6 +2583,7 @@
             "l10n_hk_reports",
             "l10n_lv_reports",
             "l10n_test_pos_qr_payment",
+            "l10n_us_account",
             "l10n_us_hr_payroll_adp",
             "product_barcodelookup",
             "solar_installation",
