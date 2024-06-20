@@ -2560,7 +2560,6 @@
             "construction",
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
-            "l10n_ch_hr_payroll_elm",
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
@@ -2638,6 +2637,7 @@
         "-": [
             "documents_spreadsheet_account",
             "documents_spreadsheet_crm",
+            "l10n_ch_hr_payroll_elm",
             "l10n_dk_bookkeeping",
             "pos_sale_product_configurator",
             "sale_product_configurator",
