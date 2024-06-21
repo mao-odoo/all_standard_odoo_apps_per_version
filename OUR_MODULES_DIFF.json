@@ -2480,6 +2480,7 @@
             "pos_order_tracking_display",
             "pos_pricer",
             "pos_razorpay",
+            "pos_sale_subscription",
             "pos_self_order_adyen",
             "pos_self_order_epson_printer",
             "pos_self_order_iot",
@@ -2563,6 +2564,7 @@
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
+            "pos_sale_subscription",
             "solar_installation",
             "website_form_project"
         ]
