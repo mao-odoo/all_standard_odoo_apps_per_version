@@ -1621,6 +1621,7 @@
             "account_asset_ndt",
             "account_edi_ubl_bis3",
             "account_sale_timesheet",
+            "account_sepa_direct_debit_008_001_08",
             "account_sepa_pain_001_001_09",
             "appointment",
             "appointment_crm",
@@ -1833,6 +1834,7 @@
             "website_slides_enterprise"
         ],
         "-": [
+            "account_sepa_direct_debit_008_001_08",
             "account_sepa_pain_001_001_09",
             "data_merge_stock_account",
             "delivery_ups_rest",
@@ -2564,7 +2566,6 @@
             "l10n_es_edi_facturae_adm_centers",
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
-            "pos_sale_subscription",
             "solar_installation",
             "website_form_project"
         ]
@@ -2604,6 +2605,7 @@
             "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_extended_30",
             "mrp_subcontracting_studio",
+            "pos_sale_subscription",
             "sale_account_taxcloud",
             "sale_amazon_taxcloud",
             "sale_loyalty_taxcloud",
@@ -2639,7 +2641,6 @@
         "-": [
             "documents_spreadsheet_account",
             "documents_spreadsheet_crm",
-            "l10n_ch_hr_payroll_elm",
             "l10n_dk_bookkeeping",
             "pos_sale_product_configurator",
             "sale_product_configurator",
