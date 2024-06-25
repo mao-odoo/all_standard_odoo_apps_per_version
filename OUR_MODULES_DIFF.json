@@ -2361,6 +2361,7 @@
             "account_external_tax",
             "account_payment_term",
             "account_saft_import",
+            "agriculture_shop",
             "appointment_account_payment",
             "appointment_google_calendar",
             "architects",
@@ -2519,7 +2520,8 @@
             "website_documents",
             "website_generator",
             "website_helpdesk_sale_loyalty",
-            "website_sale_external_tax"
+            "website_sale_external_tax",
+            "website_sale_shiprocket"
         ],
         "-": [
             "account_avatax_sale_subscription",
@@ -2559,6 +2561,7 @@
         ],
         "-": [
             "account_bacs",
+            "agriculture_shop",
             "condominium",
             "construction",
             "l10n_au_keypay",
@@ -2567,7 +2570,8 @@
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
             "solar_installation",
-            "website_form_project"
+            "website_form_project",
+            "website_sale_shiprocket"
         ]
     },
     "saas~17.2": {
@@ -2605,7 +2609,6 @@
             "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_extended_30",
             "mrp_subcontracting_studio",
-            "pos_sale_subscription",
             "sale_account_taxcloud",
             "sale_amazon_taxcloud",
             "sale_loyalty_taxcloud",
@@ -2619,6 +2622,7 @@
     "saas~17.3": {
         "+": [
             "accountant",
+            "agriculture_shop",
             "hr_homeworking_calendar",
             "l10n_co_dian",
             "l10n_eg_hr_payroll",
