@@ -1957,6 +1957,7 @@
             "account_base_import",
             "account_payment_invoice_online_payment_patch",
             "account_reconcile_wizard",
+            "account_sepa_direct_debit_008_001_08",
             "account_sequence",
             "appointment_sms",
             "base_install_request",
@@ -1987,6 +1988,7 @@
             "l10n_br_avatax",
             "l10n_br_avatax_sale",
             "l10n_br_reports",
+            "l10n_ch_pos",
             "l10n_cl_edi_exports",
             "l10n_din5008_account_followup",
             "l10n_din5008_industry_fsm",
@@ -2203,8 +2205,10 @@
         "-": [
             "account_predictive_bills",
             "account_reconcile_wizard",
+            "account_sepa_direct_debit_008_001_08",
             "association",
             "event_sale_dashboard",
+            "l10n_ch_pos",
             "l10n_de_datev_reports",
             "l10n_hr_euro",
             "l10n_nl_reports_sbr_ob_nummer",
@@ -2420,6 +2424,7 @@
             "l10n_ch_hr_payroll",
             "l10n_ch_hr_payroll_account",
             "l10n_ch_hr_payroll_elm",
+            "l10n_ch_pos",
             "l10n_ci",
             "l10n_cm",
             "l10n_cz_reports",
@@ -2570,8 +2575,7 @@
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
             "solar_installation",
-            "website_form_project",
-            "website_sale_shiprocket"
+            "website_form_project"
         ]
     },
     "saas~17.2": {
@@ -2602,6 +2606,7 @@
             "account_taxcloud",
             "l10n_be_codabox_bridge_wizard",
             "l10n_br_pix",
+            "l10n_ch_pos",
             "l10n_dk_audit_trail",
             "l10n_dk_edi",
             "l10n_es_edi_facturae_invoice_period",
@@ -2616,7 +2621,8 @@
             "sale_subscription_taxcloud",
             "stock_account_enterprise",
             "stock_landed_costs_company",
-            "website_sale_account_taxcloud"
+            "website_sale_account_taxcloud",
+            "website_sale_shiprocket"
         ]
     },
     "saas~17.3": {
@@ -2624,6 +2630,7 @@
             "accountant",
             "agriculture_shop",
             "hr_homeworking_calendar",
+            "l10n_ch_pos",
             "l10n_co_dian",
             "l10n_eg_hr_payroll",
             "l10n_eg_hr_payroll_account",
