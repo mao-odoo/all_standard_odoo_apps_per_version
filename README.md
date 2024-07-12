@@ -15,7 +15,7 @@ Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_stan
 
 ## is_my_module_standard
 
-A basic script to check if a given list of modules are standard is version X.
+A basic script to check if a given list of modules are standard in version X.
 
 ## new_app_per_version
 
