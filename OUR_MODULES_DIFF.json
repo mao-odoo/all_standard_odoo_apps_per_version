@@ -2681,5 +2681,36 @@
             "website_sale_product_configurator",
             "website_sale_renting_product_configurator"
         ]
+    },
+    "saas~17.4": {
+        "+": [
+            "auth_passkey",
+            "cloud_storage",
+            "cloud_storage_azure",
+            "cloud_storage_google",
+            "event_product",
+            "hr_calendar",
+            "l10n_bd_hr_payroll",
+            "l10n_bd_hr_payroll_account",
+            "l10n_br_avatax_sale",
+            "pos_event",
+            "purchase_edi_ubl_bis3",
+            "stock_fleet",
+            "stock_fleet_enterprise",
+            "test_hr_contract_calendar"
+        ],
+        "-": [
+            "account_audit_trail",
+            "data_merge",
+            "im_livechat_mail_bot",
+            "l10n_br_avatax_services",
+            "l10n_br_edi_sale_services",
+            "l10n_br_edi_services",
+            "l10n_ch_hr_payroll_elm",
+            "l10n_cl_edi_boletas",
+            "l10n_de_audit_trail",
+            "l10n_fr_invoice_addr",
+            "l10n_ro_efactura"
+        ]
     }
 }
