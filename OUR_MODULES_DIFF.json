@@ -1623,6 +1623,7 @@
             "account_sale_timesheet",
             "account_sepa_direct_debit_008_001_08",
             "account_sepa_pain_001_001_09",
+            "account_update_tax_tags",
             "appointment",
             "appointment_crm",
             "auth_totp_mail",
@@ -1839,6 +1840,7 @@
         "-": [
             "account_sepa_direct_debit_008_001_08",
             "account_sepa_pain_001_001_09",
+            "account_update_tax_tags",
             "data_merge_stock_account",
             "delivery_ups_rest",
             "hr_payroll_account_sepa_09",
@@ -2478,6 +2480,7 @@
             "l10n_ne",
             "l10n_ng",
             "l10n_ng_reports",
+            "l10n_pe_edi_pos",
             "l10n_pe_pos",
             "l10n_pe_website_sale",
             "l10n_ph_reports",
@@ -2633,6 +2636,7 @@
             "l10n_fr_fec",
             "l10n_mx_edi_stock_30",
             "l10n_mx_edi_stock_extended_30",
+            "l10n_pe_edi_pos",
             "mrp_subcontracting_studio",
             "sale_account_taxcloud",
             "sale_amazon_taxcloud",
@@ -2641,8 +2645,7 @@
             "sale_subscription_taxcloud",
             "stock_account_enterprise",
             "stock_landed_costs_company",
-            "website_sale_account_taxcloud",
-            "website_sale_shiprocket"
+            "website_sale_account_taxcloud"
         ]
     },
     "saas~17.3": {
@@ -2679,7 +2682,8 @@
             "sale_product_configurator",
             "stock_barcode_account_barcodelookup",
             "website_sale_product_configurator",
-            "website_sale_renting_product_configurator"
+            "website_sale_renting_product_configurator",
+            "website_sale_shiprocket"
         ]
     },
     "saas~17.4": {
@@ -2693,6 +2697,9 @@
             "l10n_bd_hr_payroll",
             "l10n_bd_hr_payroll_account",
             "l10n_br_avatax_sale",
+            "l10n_ke_edi_oscu",
+            "l10n_ke_edi_oscu_mrp",
+            "l10n_ke_edi_oscu_stock",
             "pos_event",
             "purchase_edi_ubl_bis3",
             "stock_fleet",
