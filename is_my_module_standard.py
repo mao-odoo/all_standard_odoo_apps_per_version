@@ -9,7 +9,20 @@ usage:
 import json
 import sys
 
-DATA = "OUR_MODULES_DIFF.json"
+from urllib.request import urlopen
+
+LOCAL_DATA = "OUR_MODULES_DIFF.json"
+OUR_MODULES_URL = "https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json"
+
+def get_data_with_remote_fallback():
+    """ get the LOCAL_DATA local file by default, but fall back to the remote file
+    if the script is called as a stand alone script (if just this file was copied for example)"""
+    try:
+        with open(LOCAL_DATA) as json_file:
+            return json.load(json_file)
+    except FileNotFoundError:
+        with urlopen(OUR_MODULES_URL) as json_file:
+            return json.load(json_file)
 
 
 def parse_version(version: str) -> float:
@@ -17,9 +30,7 @@ def parse_version(version: str) -> float:
 
 
 def app(target_version, modules):
-    with open(DATA) as json_file:
-        data = json.load(json_file)
-
+    data = get_data_with_remote_fallback()
     if target_version not in data:
         print(f"Version does not exists: {target_version}")
         print("Available versions:")
