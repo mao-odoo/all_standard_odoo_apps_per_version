@@ -29,4 +29,4 @@ Open an issue called "I want to contribute" to potentially get a write access to
 # other related projects
 
 https://mrsweeter.github.io/glowing-modules/  is a web based project that lists the same information as this project, in a more human readable.
-It even list older versions, and from which repo is a module is comming from. Pretty Cool !
+It even list older versions, and from which repo a module is comming from. Pretty Cool !
