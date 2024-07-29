@@ -2597,7 +2597,6 @@
         ],
         "-": [
             "account_bacs",
-            "account_update_tax_tags",
             "agriculture_shop",
             "condominium",
             "construction",
@@ -2680,6 +2679,7 @@
             "website_sale_mass_mailing"
         ],
         "-": [
+            "account_update_tax_tags",
             "documents_spreadsheet_account",
             "documents_spreadsheet_crm",
             "l10n_dk_bookkeeping",
