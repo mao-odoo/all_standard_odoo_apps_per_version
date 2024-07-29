@@ -2696,6 +2696,7 @@
     },
     "saas~17.4": {
         "+": [
+            "account_update_tax_tags",
             "auth_passkey",
             "cloud_storage",
             "cloud_storage_azure",
