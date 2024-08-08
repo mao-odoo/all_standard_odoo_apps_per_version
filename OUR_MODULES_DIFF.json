@@ -2610,7 +2610,6 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
-            "l10n_sa_edi_pos",
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
             "solar_installation",
@@ -2696,6 +2695,7 @@
             "l10n_ke_edi_oscu_mrp",
             "l10n_ke_edi_oscu_stock",
             "l10n_pe_edi_pos",
+            "l10n_sa_edi_pos",
             "pos_sale_product_configurator",
             "sale_product_configurator",
             "stock_barcode_account_barcodelookup",
@@ -2737,6 +2737,7 @@
         ],
         "-": [
             "account_audit_trail",
+            "bar_and_lounge",
             "data_merge",
             "im_livechat_mail_bot",
             "l10n_br_avatax_services",
