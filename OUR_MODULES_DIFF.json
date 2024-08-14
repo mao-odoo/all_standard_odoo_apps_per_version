@@ -2636,7 +2636,8 @@
             "product_barcodelookup",
             "solar_installation",
             "stock_barcode_account_barcodelookup",
-            "stock_barcode_barcodelookup"
+            "stock_barcode_barcodelookup",
+            "website_product_barcodelookup"
         ],
         "-": [
             "account_payment_term",
@@ -2703,6 +2704,7 @@
             "pos_sale_product_configurator",
             "sale_product_configurator",
             "stock_barcode_account_barcodelookup",
+            "website_product_barcodelookup",
             "website_sale_product_configurator",
             "website_sale_renting_product_configurator",
             "website_sale_shiprocket"
