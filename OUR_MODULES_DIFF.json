@@ -2495,6 +2495,7 @@
             "l10n_ng_reports",
             "l10n_pe_edi_pos",
             "l10n_pe_pos",
+            "l10n_pe_reports_stock",
             "l10n_pe_website_sale",
             "l10n_ph_reports",
             "l10n_ro_edi",
@@ -2513,6 +2514,7 @@
             "l10n_uk_customer_statements",
             "l10n_us_hr_payroll",
             "l10n_us_hr_payroll_account",
+            "l10n_us_hr_payroll_state_calculation",
             "l10n_zm_account",
             "l10n_zm_reports",
             "maintenance_worksheet",
@@ -2612,6 +2614,8 @@
             "l10n_au_keypay",
             "l10n_be_codabox_bridge",
             "l10n_es_edi_facturae_adm_centers",
+            "l10n_pe_reports_stock",
+            "l10n_us_hr_payroll_state_calculation",
             "mrp_subonctracting_landed_costs",
             "pharmacy_retail",
             "solar_installation",
@@ -2742,6 +2746,7 @@
             "stock_fleet_enterprise",
             "test_hr_contract_calendar",
             "test_marketing_card",
+            "website_product_barcodelookup",
             "website_sale_shiprocket"
         ],
         "-": [
