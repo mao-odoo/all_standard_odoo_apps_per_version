@@ -2769,6 +2769,7 @@
             "l10n_pe_reports_stock",
             "l10n_ph_check_printing",
             "l10n_us_hr_payroll_state_calculation",
+            "l10n_uy_edi",
             "l10n_vn_edi_viettel",
             "marketing_card",
             "mass_mailing_marketing_card",
@@ -2780,7 +2781,8 @@
             "test_marketing_card",
             "website_generator_sale",
             "website_product_barcodelookup",
-            "website_sale_shiprocket"
+            "website_sale_shiprocket",
+            "wellness_practitioner"
         ],
         "-": [
             "account_audit_trail",
