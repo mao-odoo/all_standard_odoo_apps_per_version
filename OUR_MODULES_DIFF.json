@@ -2848,6 +2848,7 @@
             "bookstore",
             "certificate",
             "crm_sale_subscription",
+            "custom_furniture",
             "fast_food",
             "hr_payroll_account_iso20022",
             "hr_recruitment_integration_base",
@@ -2904,6 +2905,7 @@
             "spreadsheet_sale_management",
             "test_event_full_enterprise",
             "test_import_export",
+            "toy_store",
             "website_appointment_sale_project",
             "website_sale_collect",
             "whatsapp_hr_referral"
