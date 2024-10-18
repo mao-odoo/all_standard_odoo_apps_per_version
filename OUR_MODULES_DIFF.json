@@ -2919,6 +2919,7 @@
             "sale_project_stock_account",
             "sale_purchase_project",
             "sale_renting_project",
+            "sale_subscription_timesheet",
             "spreadsheet_dashboard_marketing_automation",
             "spreadsheet_dashboard_pos_restaurant",
             "spreadsheet_sale_management",
