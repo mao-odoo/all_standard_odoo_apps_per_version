@@ -2991,7 +2991,6 @@
             "payment_ogone",
             "payment_payulatam",
             "payment_payumoney",
-            "payment_razorpay_oauth",
             "payment_sips",
             "pos_mercury",
             "sale_ebay",
