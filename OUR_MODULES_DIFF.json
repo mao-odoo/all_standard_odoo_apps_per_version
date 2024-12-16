@@ -2573,6 +2573,7 @@
             "pos_order_tracking_display",
             "pos_pricer",
             "pos_razorpay",
+            "pos_restaurant_loyalty",
             "pos_sale_subscription",
             "pos_self_order_adyen",
             "pos_self_order_epson_printer",
@@ -2686,6 +2687,7 @@
             "mrp_subonctracting_landed_costs",
             "payment_razorpay_oauth",
             "pharmacy_retail",
+            "pos_restaurant_loyalty",
             "solar_installation",
             "website_form_project"
         ]
