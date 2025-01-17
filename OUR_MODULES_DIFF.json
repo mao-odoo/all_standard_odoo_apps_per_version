@@ -3028,6 +3028,7 @@
             "sale_project_stock_account",
             "sale_purchase_project",
             "sale_renting_project",
+            "sale_shopee",
             "sale_subscription_timesheet",
             "spreadsheet_dashboard_marketing_automation",
             "spreadsheet_dashboard_pos_restaurant",
@@ -3103,7 +3104,8 @@
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
             "pos_urban_piper_swiggy",
-            "pos_urban_piper_zomato"
+            "pos_urban_piper_zomato",
+            "sale_shopee"
         ]
     }
 }
