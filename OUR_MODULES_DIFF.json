@@ -3085,6 +3085,9 @@
             "l10n_in_pos_urban_piper",
             "rpc",
             "stock_maintenance",
+            "test_install_auto",
+            "test_install_base",
+            "test_install_fail",
             "website_sale_collect_wishlist",
             "whatsapp_account_followup"
         ],
@@ -3104,8 +3107,7 @@
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
             "pos_urban_piper_swiggy",
-            "pos_urban_piper_zomato",
-            "sale_shopee"
+            "pos_urban_piper_zomato"
         ]
     }
 }
