@@ -3167,5 +3167,37 @@
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
+    },
+    "saas~18.2": {
+        "+": [
+            "documents_account_peppol",
+            "hr_recruitment_sms",
+            "l10n_in_edi_gstr",
+            "l10n_se_pos",
+            "pos_iot_ingenico",
+            "pos_iot_worldline",
+            "pos_repair",
+            "website_hr_recruitment_livechat",
+            "whatsapp_calendar"
+        ],
+        "-": [
+            "l10n_cz_reports_2025",
+            "l10n_in_asset",
+            "l10n_in_documents",
+            "l10n_in_enet_batch_payment",
+            "l10n_in_gstin_status",
+            "l10n_in_qr_code_bill_scan",
+            "l10n_in_reports_gstr",
+            "l10n_in_reports_tds_tcs",
+            "l10n_in_withholding",
+            "l10n_it_edi_ndd",
+            "l10n_ke_hr_payroll_shif",
+            "l10n_mx_hr_payroll_localisation",
+            "l10n_my_edi_extended",
+            "payment_razorpay_oauth",
+            "pos_l10n_se",
+            "pos_six",
+            "product_images"
+        ]
     }
 }
