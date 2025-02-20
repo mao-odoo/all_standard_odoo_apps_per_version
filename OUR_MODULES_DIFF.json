@@ -3142,6 +3142,7 @@
             "l10n_in_ewaybill_irn",
             "l10n_in_pos_urban_piper",
             "rpc",
+            "sale_commission_linked_achievement",
             "stock_maintenance",
             "test_install_auto",
             "test_install_base",
@@ -3197,7 +3198,8 @@
             "payment_razorpay_oauth",
             "pos_l10n_se",
             "pos_six",
-            "product_images"
+            "product_images",
+            "sale_commission_linked_achievement"
         ]
     }
 }
