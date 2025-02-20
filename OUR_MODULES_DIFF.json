@@ -3003,6 +3003,7 @@
         "+": [
             "account_bank_statement_extract",
             "account_extract",
+            "account_intrastat_services",
             "account_iso20022",
             "account_loans",
             "account_online_payment",
@@ -3028,6 +3029,7 @@
             "l10n_be_hr_payroll_group_s",
             "l10n_be_hr_payroll_partena",
             "l10n_be_hr_payroll_ucm",
+            "l10n_be_intrastat_services",
             "l10n_be_pos_restaurant",
             "l10n_br_edi_stock",
             "l10n_br_edi_website_sale",
@@ -3151,9 +3153,11 @@
             "whatsapp_account_followup"
         ],
         "-": [
+            "account_intrastat_services",
             "auth_totp_mail_enforce",
             "documents_account_peppol",
             "hw_escpos",
+            "l10n_be_intrastat_services",
             "l10n_ee_rounding",
             "l10n_es_modelo130",
             "l10n_es_reports_modelo130",
