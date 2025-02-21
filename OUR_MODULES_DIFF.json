@@ -3202,8 +3202,7 @@
             "payment_razorpay_oauth",
             "pos_l10n_se",
             "pos_six",
-            "product_images",
-            "sale_commission_linked_achievement"
+            "product_images"
         ]
     }
 }
