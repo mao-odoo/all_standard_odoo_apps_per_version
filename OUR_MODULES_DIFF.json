@@ -3174,7 +3174,6 @@
             "auth_totp_mail_enforce",
             "documents_account_peppol",
             "hw_escpos",
-            "l10n_be_hr_payroll_acerta",
             "l10n_be_intrastat_services",
             "l10n_ee_rounding",
             "l10n_es_modelo130",
@@ -3226,7 +3225,6 @@
             "l10n_pe_website_sale",
             "payment_razorpay_oauth",
             "pos_l10n_se",
-            "pos_pine_labs",
             "pos_six",
             "product_images"
         ]
