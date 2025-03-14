@@ -3020,6 +3020,7 @@
             "account_loans",
             "account_online_payment",
             "appointment_microsoft_calendar",
+            "bakery",
             "beverage_distributor",
             "bookstore",
             "certificate",
@@ -3172,6 +3173,7 @@
         "-": [
             "account_intrastat_services",
             "auth_totp_mail_enforce",
+            "bakery",
             "documents_account_peppol",
             "hw_escpos",
             "l10n_be_intrastat_services",
