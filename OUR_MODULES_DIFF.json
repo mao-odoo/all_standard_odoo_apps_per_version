@@ -3211,7 +3211,6 @@
         ],
         "-": [
             "l10n_ar_website_sale",
-            "l10n_be_hr_payroll_prisma",
             "l10n_co_edi_website_sale",
             "l10n_cz_reports_2025",
             "l10n_ec_website_sale",
@@ -3230,7 +3229,6 @@
             "l10n_mx_hr_payroll_localisation",
             "l10n_my_edi_extended",
             "l10n_pe_website_sale",
-            "payment_nuvei",
             "payment_razorpay_oauth",
             "pos_l10n_se",
             "pos_six",
