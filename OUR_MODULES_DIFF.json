@@ -3110,6 +3110,7 @@
             "sale_renting_project",
             "sale_shopee",
             "sale_subscription_timesheet",
+            "shoe_maker",
             "spreadsheet_dashboard_marketing_automation",
             "spreadsheet_dashboard_pos_restaurant",
             "spreadsheet_sale_management",
@@ -3180,7 +3181,6 @@
             "documents_account_peppol",
             "hw_escpos",
             "l10n_be_intrastat_services",
-            "l10n_br_edi_pos",
             "l10n_ee_rounding",
             "l10n_es_modelo130",
             "l10n_es_reports_modelo130",
@@ -3211,6 +3211,7 @@
         ],
         "-": [
             "l10n_ar_website_sale",
+            "l10n_br_edi_pos",
             "l10n_co_edi_website_sale",
             "l10n_cz_reports_2025",
             "l10n_ec_website_sale",
