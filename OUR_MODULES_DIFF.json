@@ -3068,6 +3068,8 @@
             "l10n_kr",
             "l10n_kr_reports",
             "l10n_mx_hr_payroll_localisation",
+            "l10n_my_hr_payroll",
+            "l10n_my_hr_payroll_account",
             "l10n_nl_reports_vat_pay_wizard",
             "l10n_nz_reports",
             "l10n_uk_hmrc",
@@ -3211,7 +3213,6 @@
         ],
         "-": [
             "l10n_ar_website_sale",
-            "l10n_br_edi_pos",
             "l10n_co_edi_website_sale",
             "l10n_cz_reports_2025",
             "l10n_ec_website_sale",
