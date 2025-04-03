@@ -3030,6 +3030,7 @@
             "beverage_distributor",
             "bookstore",
             "certificate",
+            "cleaning_services",
             "crm_sale_subscription",
             "custom_furniture",
             "delivery_envia",
@@ -3142,7 +3143,6 @@
             "l10n_es_pos_tbai",
             "l10n_mx_edi_stock_extended",
             "l10n_mx_edi_stock_extended_31",
-            "l10n_rs_edi",
             "l10n_uk_customer_statements",
             "mass_mailing_marketing_card",
             "payment_alipay",
@@ -3200,6 +3200,7 @@
             "l10n_nl_reports_sbr_icp",
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
+            "l10n_rs_edi",
             "l10n_us_hr_payroll_state_calculation",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
