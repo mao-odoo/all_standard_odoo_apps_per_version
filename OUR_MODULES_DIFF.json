@@ -3090,6 +3090,7 @@
             "payment_worldline",
             "personal_trainer",
             "pos_avatax",
+            "pos_mobile",
             "pos_pine_labs",
             "pos_restaurant_urban_piper",
             "pos_self_order_razorpay",
@@ -3201,6 +3202,7 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
+            "pos_mobile",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
