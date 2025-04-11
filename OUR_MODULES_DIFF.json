@@ -3131,6 +3131,7 @@
             "website_appointment_sale_project",
             "website_sale_collect",
             "website_sale_gelato",
+            "wedding_planner",
             "whatsapp_hr_referral"
         ],
         "-": [
@@ -3202,7 +3203,6 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
-            "pos_mobile",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
