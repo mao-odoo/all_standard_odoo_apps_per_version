@@ -3034,6 +3034,7 @@
             "crm_sale_subscription",
             "custom_furniture",
             "delivery_envia",
+            "electrician",
             "environmental_agency",
             "fast_food",
             "fitness",
@@ -3169,7 +3170,6 @@
     },
     "saas~18.1": {
         "+": [
-            "electrician",
             "google_address_autocomplete",
             "hr_payroll_sale_commission",
             "iot_box_image",
