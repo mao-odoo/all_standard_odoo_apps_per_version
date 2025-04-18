@@ -34,7 +34,7 @@ It has been replaced by OUR_MODULES_DIFF.json
 
 A basic script to check if a given list of modules are standard in version X.
 
-run it without downloading this repo with:
+run it without cloning this repo with:
 ```bash
 python3 <(curl -s 'https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/is_my_module_standard.py') <version> -m <module_names>...
 ```
@@ -43,7 +43,7 @@ python3 <(curl -s 'https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_
 
 A basic script to see apps introduced per version.
 
-run it without downloading this repo with:
+run it without cloning this repo with:
 ```bash
 python3 <(curl -s 'https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/new_app_per_version.py')
 ```
