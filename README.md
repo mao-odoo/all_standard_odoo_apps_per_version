@@ -12,6 +12,9 @@ import json
 from urllib.request import urlopen
 OUR_MODULES_URL = "https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json"
 
+def only_num(version):
+     return float(version.replace("saas~", ""))
+
 def parse_diff(data):
     result = {}
     modules = set()
