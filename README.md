@@ -2,7 +2,7 @@
 
 
 ## OUR_MODULES_DIFF.json
-A file listing all the names of standard Odoo apps introduced and removed in each version (community, design-themes, enterprise and inductry).
+A file listing all the names of standard Odoo apps introduced and removed in each version (community, design-themes, enterprise and industry).
 
 Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json
 
@@ -53,7 +53,7 @@ python3 <(curl -s 'https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_
 Open an issue called "I want to contribute" to potentially get a write access to this repository
 
 
-# other related projects
+# other similar projects
 
 https://mrsweeter.github.io/glowing-modules/  is a web based project that lists the same information as this project, in a more human readable.
-It even list older versions, and from which repo a module is comming from. Pretty Cool !
+It even list older versions, and from which repository a module is coming from. Pretty Cool !
