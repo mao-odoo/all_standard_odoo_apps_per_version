@@ -6,12 +6,29 @@ A file listing all the names of standard Odoo apps introduced and removed in eac
 
 Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json
 
+To get a full list of the modules per version:
+```python
+import json
+from urllib.request import urlopen
+OUR_MODULES_URL = "https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES_DIFF.json"
+
+def parse_diff(data):
+    result = {}
+    modules = set()
+    for version, diff in sorted(data.items(), key=lambda x: only_num(x[0])):
+        result[version] = modules = (modules - set(diff["-"])) | set(diff["+"])
+    return result
+
+with urlopen(OUR_MODULES_URL) as json_file:
+    data = parse_diff(json.load(json_file))
+```
+
 ## OUR_MODULES.json  (deprecated)
 A file listing all the names of standard Odoo apps per version (community, design-themes, enterprise and inductry).
-This file will soon stop being updated, and in the next few months will be removed from the repository.
 It has been replaced by OUR_MODULES_DIFF.json
 
-Get it from your script at : https://raw.githubusercontent.com/mao-odoo/all_standard_odoo_apps_per_version/main/OUR_MODULES.json
+> [!warning]
+> This file has last been updated on 2025-04-18, will not be updated going forward and will be remove at the end of 2025
 
 ## is_my_module_standard
 
