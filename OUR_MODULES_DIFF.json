@@ -3092,6 +3092,7 @@
             "payment_worldline",
             "personal_trainer",
             "pos_avatax",
+            "pos_event_sale",
             "pos_mobile",
             "pos_pine_labs",
             "pos_restaurant_urban_piper",
@@ -3206,6 +3207,7 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
+            "pos_event_sale",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
@@ -3225,7 +3227,6 @@
         ],
         "-": [
             "l10n_ar_website_sale",
-            "l10n_be_hr_payroll_dmfa_sftp",
             "l10n_co_edi_website_sale",
             "l10n_cz_reports_2025",
             "l10n_ec_website_sale",
@@ -3254,6 +3255,12 @@
         "+": [
             "ai_fields",
             "ai_server_actions",
+            "base_industry_data",
+            "esg",
+            "esg_hr",
+            "esg_hr_contract",
+            "esg_hr_fleet",
+            "esg_project",
             "iot_base",
             "l10n_at_pos",
             "l10n_bf_reports",
