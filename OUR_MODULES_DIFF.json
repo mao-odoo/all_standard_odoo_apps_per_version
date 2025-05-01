@@ -3207,7 +3207,6 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
-            "pos_event_sale",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
@@ -3246,6 +3245,7 @@
             "l10n_my_edi_extended",
             "l10n_pe_website_sale",
             "payment_razorpay_oauth",
+            "pos_event_sale",
             "pos_l10n_se",
             "pos_six",
             "product_images"
