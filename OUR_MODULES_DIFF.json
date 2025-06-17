@@ -3064,6 +3064,8 @@
             "hr_recruitment_integration_website",
             "hr_recruitment_integration_website_monster",
             "html_editor",
+            "l10n_account_withholding_tax",
+            "l10n_account_withholding_tax_pos",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_hr_payroll_acerta",
             "l10n_be_hr_payroll_dmfa_sftp",
