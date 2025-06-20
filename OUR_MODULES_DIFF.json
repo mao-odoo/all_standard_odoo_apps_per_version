@@ -2535,6 +2535,7 @@
             "l10n_it_xml_export",
             "l10n_jo",
             "l10n_jo_edi",
+            "l10n_jo_edi_extended",
             "l10n_jp_ubl_pint",
             "l10n_jp_zengin",
             "l10n_ke_edi_oscu",
@@ -2725,6 +2726,7 @@
             "l10n_it_riba",
             "l10n_it_xml_export",
             "l10n_jo_edi",
+            "l10n_jo_edi_extended",
             "l10n_jp_zengin",
             "l10n_ke_edi_oscu_pos",
             "l10n_ke_hr_payroll_shif",
@@ -3243,6 +3245,7 @@
     },
     "saas~18.2": {
         "+": [
+            "bowling",
             "documents_account_peppol",
             "l10n_in_edi_gstr",
             "l10n_se_pos",
@@ -3339,6 +3342,7 @@
             "website_timesheet"
         ],
         "-": [
+            "bowling",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
