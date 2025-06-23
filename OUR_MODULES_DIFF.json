@@ -3046,6 +3046,7 @@
             "bakery",
             "beverage_distributor",
             "bookstore",
+            "bowling",
             "certificate",
             "cleaning_services",
             "crm_sale_subscription",
@@ -3245,7 +3246,6 @@
     },
     "saas~18.2": {
         "+": [
-            "bowling",
             "documents_account_peppol",
             "l10n_in_edi_gstr",
             "l10n_se_pos",
@@ -3296,6 +3296,7 @@
             "esg_hr_contract",
             "esg_hr_fleet",
             "esg_project",
+            "event_management",
             "iot_base",
             "l10n_at_pos",
             "l10n_bf_reports",
@@ -3342,7 +3343,6 @@
             "website_timesheet"
         ],
         "-": [
-            "bowling",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
