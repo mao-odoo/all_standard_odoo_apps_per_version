@@ -3098,6 +3098,7 @@
             "l10n_do_check_printing",
             "l10n_ec_edi_stock",
             "l10n_es_edi_tbai_pos",
+            "l10n_eu_iot_scale_cert",
             "l10n_fr_intrastat_services",
             "l10n_gr_edi",
             "l10n_id_hr_payroll",
@@ -3272,6 +3273,7 @@
             "pos_iot_ingenico",
             "pos_iot_worldline",
             "pos_repair",
+            "real_estate",
             "website_hr_recruitment_livechat",
             "whatsapp_calendar"
         ],
@@ -3281,6 +3283,7 @@
             "l10n_cz_reports_2025",
             "l10n_ec_website_sale",
             "l10n_es_website_sale",
+            "l10n_eu_iot_scale_cert",
             "l10n_in_asset",
             "l10n_in_documents",
             "l10n_in_enet_batch_payment",
