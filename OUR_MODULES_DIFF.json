@@ -3129,6 +3129,7 @@
             "l10n_tr_nilvera_edispatch",
             "l10n_uk_hmrc",
             "l10n_uk_reports_cis",
+            "l10n_uy_website_sale",
             "l10n_vn_reports",
             "marketing_agency",
             "marketing_automation_website_sale",
@@ -3262,6 +3263,7 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
+            "l10n_uy_website_sale",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
@@ -3269,7 +3271,9 @@
     "saas~18.2": {
         "+": [
             "accounting_firm",
+            "bike_shop",
             "documents_account_peppol",
+            "gallery",
             "l10n_in_edi_gstr",
             "l10n_se_pos",
             "l10n_test_website_sale",
@@ -3371,10 +3375,11 @@
             "website_timesheet"
         ],
         "-": [
+            "bike_shop",
+            "gallery",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
-            "l10n_eu_iot_scale_cert",
             "l10n_in_purchase",
             "l10n_nl_reports_vat_pay_wizard",
             "membership",
@@ -3434,6 +3439,7 @@
             "l10n_ae_corporate_tax_report",
             "l10n_ch_hr_payroll_elm_transmission",
             "l10n_ch_hr_payroll_elm_transmission_account",
+            "l10n_eu_iot_scale_cert",
             "l10n_it_edi_ndd_account_dn",
             "l10n_jo_edi_extended",
             "planning_contract",
