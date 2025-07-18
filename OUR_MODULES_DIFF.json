@@ -3263,7 +3263,6 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
-            "l10n_uy_website_sale",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
@@ -3304,6 +3303,7 @@
             "l10n_mx_hr_payroll_localisation",
             "l10n_my_edi_extended",
             "l10n_pe_website_sale",
+            "l10n_uy_website_sale",
             "payment_razorpay_oauth",
             "pos_l10n_se",
             "pos_six",
@@ -3372,11 +3372,10 @@
             "voip_hr_recruitment",
             "voip_sms",
             "web_studio_ai_fields",
-            "website_timesheet"
+            "website_timesheet",
+            "yoga_pilates"
         ],
         "-": [
-            "bike_shop",
-            "gallery",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
