@@ -2510,6 +2510,8 @@
             "l10n_ee_rounding",
             "l10n_es_edi_facturae_invoice_period",
             "l10n_es_edi_tbai_multi_refund",
+            "l10n_es_edi_verifactu",
+            "l10n_es_edi_verifactu_pos",
             "l10n_es_modelo130",
             "l10n_es_pos",
             "l10n_es_pos_tbai",
@@ -2724,6 +2726,8 @@
             "l10n_ee_rounding",
             "l10n_es_edi_facturae_adm_centers",
             "l10n_es_edi_tbai_multi_refund",
+            "l10n_es_edi_verifactu",
+            "l10n_es_edi_verifactu_pos",
             "l10n_es_reports_2024",
             "l10n_fr_reports_extended",
             "l10n_id_efaktur_coretax",
@@ -3066,6 +3070,7 @@
             "dropshipping",
             "electrician",
             "environmental_agency",
+            "excise_management",
             "fast_food",
             "fitness",
             "florist",
@@ -3179,6 +3184,7 @@
             "test_beverage_distributor",
             "test_bookstore",
             "test_event_full_enterprise",
+            "test_excise_management",
             "test_hair_salon",
             "test_handyman",
             "test_import_export",
@@ -3249,6 +3255,7 @@
             "account_intrastat_services",
             "auth_totp_mail_enforce",
             "documents_account_peppol",
+            "excise_management",
             "hw_escpos",
             "l10n_be_intrastat_services",
             "l10n_ee_rounding",
@@ -3264,7 +3271,8 @@
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
             "pos_urban_piper_swiggy",
-            "pos_urban_piper_zomato"
+            "pos_urban_piper_zomato",
+            "test_excise_management"
         ]
     },
     "saas~18.2": {
@@ -3281,7 +3289,8 @@
             "pos_repair",
             "real_estate",
             "website_hr_recruitment_livechat",
-            "whatsapp_calendar"
+            "whatsapp_calendar",
+            "wine_merchant"
         ],
         "-": [
             "l10n_ar_website_sale",
@@ -3327,6 +3336,7 @@
             "event_management",
             "excise_management",
             "food_distribution",
+            "hvac_services",
             "iot_base",
             "l10n_at_pos",
             "l10n_bf_reports",
@@ -3395,7 +3405,8 @@
             "website_event_meet_quiz",
             "website_jitsi",
             "website_membership",
-            "website_sale_shiprocket"
+            "website_sale_shiprocket",
+            "wine_merchant"
         ]
     },
     "saas~18.4": {
@@ -3416,6 +3427,7 @@
             "pos_event_iot",
             "sale_stock_product_expiry",
             "test_orm",
+            "theater",
             "website_sale_renting_planning"
         ],
         "-": [
@@ -3438,7 +3450,6 @@
             "l10n_ae_corporate_tax_report",
             "l10n_ch_hr_payroll_elm_transmission",
             "l10n_ch_hr_payroll_elm_transmission_account",
-            "l10n_eu_iot_scale_cert",
             "l10n_it_edi_ndd_account_dn",
             "l10n_jo_edi_extended",
             "planning_contract",
