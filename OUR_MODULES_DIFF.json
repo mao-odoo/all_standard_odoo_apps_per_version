@@ -3255,7 +3255,6 @@
             "account_intrastat_services",
             "auth_totp_mail_enforce",
             "documents_account_peppol",
-            "excise_management",
             "hw_escpos",
             "l10n_be_intrastat_services",
             "l10n_ee_rounding",
@@ -3271,8 +3270,7 @@
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
             "pos_urban_piper_swiggy",
-            "pos_urban_piper_zomato",
-            "test_excise_management"
+            "pos_urban_piper_zomato"
         ]
     },
     "saas~18.2": {
@@ -3334,7 +3332,6 @@
             "esg_hr_fleet",
             "esg_project",
             "event_management",
-            "excise_management",
             "food_distribution",
             "hvac_services",
             "iot_base",
@@ -3378,7 +3375,6 @@
             "sale_subscription_partnership",
             "student_organization",
             "test_ai_fields",
-            "test_excise_management",
             "voip_hr_recruitment",
             "voip_sms",
             "web_studio_ai_fields",
