@@ -3360,6 +3360,7 @@
             "l10n_ml_reports",
             "l10n_mu_reports",
             "l10n_ne_reports",
+            "l10n_om_reports",
             "l10n_sa_reports",
             "l10n_sn_reports",
             "l10n_td_reports",
@@ -3401,8 +3402,7 @@
             "website_event_meet_quiz",
             "website_jitsi",
             "website_membership",
-            "website_sale_shiprocket",
-            "wine_merchant"
+            "website_sale_shiprocket"
         ]
     },
     "saas~18.4": {
