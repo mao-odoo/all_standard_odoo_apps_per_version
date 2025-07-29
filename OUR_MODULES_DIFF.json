@@ -3134,6 +3134,7 @@
             "l10n_tr_nilvera_edispatch",
             "l10n_uk_hmrc",
             "l10n_uk_reports_cis",
+            "l10n_uy_pos",
             "l10n_uy_website_sale",
             "l10n_vn_reports",
             "marketing_agency",
@@ -3269,6 +3270,7 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_us_hr_payroll_state_calculation",
+            "l10n_uy_pos",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato"
         ]
