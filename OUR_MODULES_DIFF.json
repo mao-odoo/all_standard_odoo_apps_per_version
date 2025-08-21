@@ -3451,6 +3451,7 @@
             "l10n_ar_website_sale",
             "payment_paymob",
             "pos_event_iot",
+            "pos_iot_adam_scale",
             "sale_stock_product_expiry",
             "test_orm",
             "theater",
