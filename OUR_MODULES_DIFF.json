@@ -3359,6 +3359,7 @@
             "ai_knowledge",
             "ai_server_actions",
             "base_industry_data",
+            "climbing_gym",
             "driving_school",
             "esg",
             "esg_hr",
@@ -3467,6 +3468,7 @@
         ],
         "-": [
             "base_automation_hr_contract",
+            "climbing_gym",
             "documents_hr_contract",
             "esg_hr_contract",
             "hr_appraisal_contract",
