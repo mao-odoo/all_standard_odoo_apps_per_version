@@ -3319,6 +3319,7 @@
             "pos_iot_worldline",
             "pos_repair",
             "real_estate",
+            "test_real_estate",
             "website_hr_recruitment_livechat",
             "whatsapp_calendar",
             "wine_merchant"
@@ -3446,6 +3447,8 @@
     "saas~18.4": {
         "+": [
             "base_automation_hr",
+            "concert_halls",
+            "escape_rooms",
             "event_iot",
             "event_sale_iot",
             "guest_house",
@@ -3468,7 +3471,6 @@
         ],
         "-": [
             "base_automation_hr_contract",
-            "climbing_gym",
             "documents_hr_contract",
             "esg_hr_contract",
             "hr_appraisal_contract",
