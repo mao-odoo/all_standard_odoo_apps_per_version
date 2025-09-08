@@ -3483,6 +3483,7 @@
             "payment_paymob",
             "pos_event_iot",
             "sale_stock_product_expiry",
+            "sport_events",
             "summer_camps",
             "takeaway_restaurant",
             "test_orm",
