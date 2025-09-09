@@ -3465,6 +3465,7 @@
         "+": [
             "base_automation_hr",
             "concert_halls",
+            "coworking",
             "diy_workshops",
             "escape_rooms",
             "event_iot",
@@ -3486,6 +3487,7 @@
             "sport_events",
             "summer_camps",
             "takeaway_restaurant",
+            "team_sports_club",
             "test_orm",
             "theater",
             "website_sale_renting_planning"
