@@ -2665,6 +2665,7 @@
             "website_generator",
             "website_helpdesk_sale_loyalty",
             "website_sale_external_tax",
+            "website_sale_mrp",
             "website_sale_shiprocket"
         ],
         "-": [
@@ -2781,7 +2782,8 @@
             "sms_twilio",
             "solar_installation",
             "test_industry_real_estate",
-            "website_form_project"
+            "website_form_project",
+            "website_sale_mrp"
         ]
     },
     "saas~17.2": {
@@ -3223,6 +3225,7 @@
             "website_appointment_sale_project",
             "website_sale_collect",
             "website_sale_gelato",
+            "website_sale_mrp",
             "wedding_planner",
             "whatsapp_hr_referral"
         ],
@@ -3312,7 +3315,8 @@
             "l10n_uy_pos",
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato",
-            "sms_twilio"
+            "sms_twilio",
+            "website_sale_mrp"
         ]
     },
     "saas~18.2": {
@@ -3343,6 +3347,7 @@
             "sms_twilio",
             "test_real_estate",
             "website_hr_recruitment_livechat",
+            "website_sale_mrp",
             "whatsapp_calendar",
             "wine_merchant"
         ],
@@ -3519,7 +3524,6 @@
             "l10n_ae_corporate_tax_report",
             "l10n_ch_hr_payroll_elm_transmission",
             "l10n_ch_hr_payroll_elm_transmission_account",
-            "l10n_dk_nemhandel",
             "l10n_it_edi_ndd_account_dn",
             "l10n_jo_edi_extended",
             "planning_contract",
@@ -3569,6 +3573,7 @@
             "hr_skills_event",
             "l10n_ae_pos",
             "l10n_au_hr_payroll_api",
+            "l10n_be_codaclean",
             "l10n_be_fiscal_categories",
             "l10n_be_fiscal_categories_fleet",
             "l10n_be_reports_hr_payroll",
@@ -3624,7 +3629,8 @@
             "pos_paytm",
             "pos_self_order_epson_printer",
             "web_editor",
-            "website_payment_authorize"
+            "website_payment_authorize",
+            "website_sale_mrp"
         ]
     }
 }
