@@ -3157,6 +3157,7 @@
             "l10n_nz_reports",
             "l10n_om",
             "l10n_pl_taxable_supply_date",
+            "l10n_ro_efactura_synchronize",
             "l10n_se_bban",
             "l10n_tr_nilvera_edispatch",
             "l10n_tr_nilvera_einvoice_extended",
@@ -3310,6 +3311,7 @@
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
             "l10n_pl_taxable_supply_date",
+            "l10n_ro_efactura_synchronize",
             "l10n_se_bban",
             "l10n_tr_nilvera_einvoice_extended",
             "l10n_tw_edi_ecpay",
@@ -3340,6 +3342,7 @@
             "l10n_se_bban",
             "l10n_se_pos",
             "l10n_test_website_sale",
+            "l10n_tr_nilvera_einvoice_extended",
             "l10n_tw_edi_ecpay",
             "l10n_uy_pos",
             "pos_iot_ingenico",
@@ -3528,6 +3531,7 @@
             "l10n_ch_hr_payroll_elm_transmission_account",
             "l10n_it_edi_ndd_account_dn",
             "l10n_jo_edi_extended",
+            "l10n_tr_nilvera_einvoice_extended",
             "planning_contract",
             "project_enterprise_hr_contract",
             "spreadsheet_dashboard_hr_contract",
@@ -3541,6 +3545,7 @@
     },
     "19.0": {
         "+": [
+            "3pl_logistic_company",
             "account_budget_purchase",
             "account_fiscal_categories",
             "account_fiscal_categories_fleet",
@@ -3575,6 +3580,7 @@
             "hr_expense_stripe_demo",
             "hr_skills_event",
             "l10n_ae_pos",
+            "l10n_ar_reports_simple",
             "l10n_au_hr_payroll_api",
             "l10n_be_codaclean",
             "l10n_be_fiscal_categories",
@@ -3585,6 +3591,7 @@
             "l10n_ie_intrastat",
             "l10n_it_hr_payroll_sd_worx",
             "l10n_mx_hr_payroll_account_edi",
+            "l10n_sa_withholding_tax",
             "l10n_si_intrastat",
             "l10n_uk_intrastat",
             "metal_fabricator",
@@ -3633,8 +3640,7 @@
             "pos_paytm",
             "pos_self_order_epson_printer",
             "web_editor",
-            "website_payment_authorize",
-            "website_sale_mrp"
+            "website_payment_authorize"
         ]
     }
 }
