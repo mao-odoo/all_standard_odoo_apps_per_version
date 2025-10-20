@@ -3456,6 +3456,8 @@
             "voip_hr_recruitment",
             "voip_sms",
             "web_studio_ai_fields",
+            "website_sale_product_feed",
+            "website_sale_stock_product_feed",
             "website_timesheet",
             "yoga_pilates"
         ],
@@ -3653,7 +3655,9 @@
             "pos_paytm",
             "pos_self_order_epson_printer",
             "web_editor",
-            "website_payment_authorize"
+            "website_payment_authorize",
+            "website_sale_product_feed",
+            "website_sale_stock_product_feed"
         ]
     }
 }
