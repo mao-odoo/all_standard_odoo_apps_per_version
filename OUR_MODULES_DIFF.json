@@ -3479,16 +3479,13 @@
             "yoga_pilates"
         ],
         "-": [
-            "account_no_followup",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
             "l10n_in_purchase",
             "l10n_nl_reports_vat_pay_wizard",
-            "l10n_tw_edi_ecpay_website_sale",
             "membership",
             "pos_hr_preparation_display",
-            "pos_no_followup",
             "pos_preparation_display",
             "pos_viva_wallet",
             "sale_async_emails",
@@ -3539,6 +3536,7 @@
             "website_sale_renting_planning"
         ],
         "-": [
+            "account_no_followup",
             "base_automation_hr_contract",
             "documents_hr_contract",
             "esg_hr_contract",
@@ -3563,6 +3561,7 @@
             "l10n_ro_efactura_synchronize",
             "l10n_uy_edi_stock",
             "planning_contract",
+            "pos_no_followup",
             "project_enterprise_hr_contract",
             "spreadsheet_dashboard_hr_contract",
             "test_exceptions",
@@ -3682,6 +3681,7 @@
             "l10n_it_xml_export",
             "l10n_mx_hr",
             "l10n_pl_taxable_supply_date",
+            "l10n_tw_edi_ecpay_website_sale",
             "pos_epson_printer",
             "pos_paytm",
             "pos_self_order_epson_printer",
