@@ -1963,6 +1963,7 @@
     },
     "16.0": {
         "+": [
+            "account_add_gln",
             "account_bacs",
             "account_base_import",
             "account_edi_ubl_cii_tax_extension",
@@ -2084,6 +2085,7 @@
             "payment_flutterwave",
             "payment_mercado_pago",
             "payment_razorpay",
+            "payment_worldline",
             "pos_daily_sales_reports",
             "pos_hr_restaurant",
             "pos_iot_six",
@@ -2232,6 +2234,7 @@
             "website_cf_turnstile"
         ],
         "-": [
+            "account_add_gln",
             "account_edi_ubl_cii_tax_extension",
             "account_peppol",
             "account_predictive_bills",
@@ -2261,6 +2264,7 @@
             "l10n_mx_edi_stock_extended_31",
             "l10n_nl_reports_sbr_ob_nummer",
             "l10n_nl_reports_sbr_status_info",
+            "payment_worldline",
             "pos_cache",
             "project_timesheet_forecast_contract",
             "sale_enterprise",
@@ -2409,6 +2413,7 @@
     "17.0": {
         "+": [
             "account_accountant_check_printing",
+            "account_add_gln",
             "account_audit_trail",
             "account_debit_note_sequence",
             "account_edi_ubl_cii_tax_extension",
@@ -2623,6 +2628,7 @@
             "micro_brewery",
             "non_profit_organization",
             "payment_razorpay_oauth",
+            "payment_worldline",
             "payment_xendit",
             "pharmacy_retail",
             "photography",
@@ -2711,6 +2717,7 @@
             "website_project"
         ],
         "-": [
+            "account_add_gln",
             "account_bacs",
             "account_debit_note_sequence",
             "account_edi_ubl_cii_tax_extension",
@@ -2787,6 +2794,7 @@
             "l10n_vn_edi_viettel",
             "mrp_subonctracting_landed_costs",
             "payment_razorpay_oauth",
+            "payment_worldline",
             "pharmacy_retail",
             "pos_restaurant_loyalty",
             "sms_twilio",
@@ -3076,6 +3084,7 @@
     },
     "18.0": {
         "+": [
+            "account_add_gln",
             "account_bank_statement_extract",
             "account_extract",
             "account_intrastat_services",
@@ -3305,6 +3314,7 @@
             "whatsapp_account_followup"
         ],
         "-": [
+            "account_add_gln",
             "account_intrastat_services",
             "account_no_followup",
             "appointment_google_reserve",
@@ -3497,7 +3507,6 @@
             "yoga_pilates"
         ],
         "-": [
-            "cloud_storage_migration",
             "l10n_be_hr_contract_salary_mobility_budget",
             "l10n_be_reports_post_wizard",
             "l10n_br_test_avatax_sale",
@@ -3644,6 +3653,7 @@
             "l10n_cz_intrastat",
             "l10n_es_intrastat",
             "l10n_es_reports_2025",
+            "l10n_hk_hr_payroll_empf",
             "l10n_hr_intrastat",
             "l10n_ie_intrastat",
             "l10n_it_hr_payroll_sd_worx",
@@ -3680,6 +3690,7 @@
             "textile_manufacturing",
             "thrift_store",
             "veterinary_clinic",
+            "vineyard",
             "voip_ai",
             "voip_helpdesk",
             "voip_hr",
