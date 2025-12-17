@@ -3365,6 +3365,7 @@
     },
     "saas~18.2": {
         "+": [
+            "account_add_gln",
             "account_no_followup",
             "accounting_firm",
             "appointment_google_reserve",
@@ -3567,6 +3568,7 @@
             "website_sale_renting_planning"
         ],
         "-": [
+            "account_add_gln",
             "base_automation_hr_contract",
             "documents_hr_contract",
             "esg_hr_contract",
