@@ -3270,6 +3270,7 @@
             "test_hair_salon",
             "test_handyman",
             "test_import_export",
+            "test_industry",
             "test_industry_real_estate",
             "test_sale_purchase_edi_ubl",
             "test_tattoo_shop",
@@ -3307,6 +3308,7 @@
             "test_marketing_card",
             "test_populate",
             "test_xlsx_export",
+            "tests",
             "web_tour_recorder",
             "website_event_twitter_wall",
             "website_sale_picking",
@@ -3331,6 +3333,7 @@
             "test_install_base",
             "test_install_fail",
             "test_shoe_maker",
+            "tests",
             "website_sale_collect_wishlist",
             "whatsapp_account_followup"
         ],
@@ -3392,6 +3395,7 @@
             "pos_urban_piper_swiggy",
             "pos_urban_piper_zomato",
             "sms_twilio",
+            "test_industry",
             "website_sale_mrp"
         ]
     },
@@ -3445,6 +3449,7 @@
             "pos_repair",
             "real_estate",
             "sms_twilio",
+            "test_industry",
             "test_real_estate",
             "website_hr_recruitment_livechat",
             "website_sale_mrp",
@@ -3475,7 +3480,8 @@
             "payment_razorpay_oauth",
             "pos_l10n_se",
             "pos_six",
-            "product_images"
+            "product_images",
+            "tests"
         ]
     },
     "saas~18.3": {
@@ -3606,6 +3612,7 @@
             "takeaway_restaurant",
             "team_sports_club",
             "test_orm",
+            "tests",
             "theater",
             "website_sale_renting_planning"
         ],
@@ -3637,6 +3644,7 @@
             "spreadsheet_dashboard_hr_contract",
             "test_exceptions",
             "test_hr_contract_calendar",
+            "test_industry",
             "test_limits",
             "test_new_api",
             "test_performance",
@@ -3755,6 +3763,7 @@
             "test_team_sports_club",
             "textile_manufacturing",
             "thrift_store",
+            "usage_based_maintenance",
             "veterinary_clinic",
             "vineyard",
             "voip_ai",
@@ -3863,6 +3872,7 @@
             "test_rpc",
             "test_search_panel",
             "test_translation_import",
+            "usage_based_maintenance",
             "voip_onsip"
         ]
     },
@@ -3888,6 +3898,7 @@
             "l10n_hk_hsbcnet",
             "l10n_hk_payment_hsbcnet",
             "l10n_in_hr_contract_salary",
+            "l10n_ph_reports_asset",
             "l10n_ph_reports_stock",
             "l10n_tr_nilvera_einvoice_subscription_sale",
             "l10n_tw_edi_ecpay_sale",
