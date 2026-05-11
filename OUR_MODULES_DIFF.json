@@ -3904,7 +3904,6 @@
             "l10n_es_reports_2025",
             "l10n_se_returns",
             "l10n_tr_nilvera_einvoice_extended",
-            "pet_groomer",
             "pos_iot_ingenico",
             "pos_restaurant_adyen",
             "pos_restaurant_stripe",
@@ -4043,6 +4042,7 @@
             "pos_self_order_bancontact_pay",
             "pos_stock",
             "pos_stock_enterprise",
+            "property_assets_distribution",
             "sale_renting_loyalty",
             "sale_renting_pdf_quote_builder",
             "sale_subscription_loyalty",
@@ -4072,6 +4072,7 @@
             "l10n_pl_reports_jpk_fa",
             "l10n_tr_nilvera_base_vat",
             "mrp_workorder_expiry",
+            "pet_groomer",
             "pos_urban_piper_enhancements",
             "pos_urban_piper_ubereats",
             "test_testing_utilities"
