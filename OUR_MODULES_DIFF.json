@@ -3881,6 +3881,8 @@
             "l10n_sa_hr_payroll_gosi",
             "l10n_se_intrastat",
             "maintenance_enterprise",
+            "obox",
+            "obox_pos_self_order",
             "pos_planning",
             "pos_self_order_event",
             "project_enterprise_hr_todo",
