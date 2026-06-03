@@ -3963,6 +3963,7 @@
             "ai_sale_margin",
             "ai_sale_stock",
             "ai_stock",
+            "custom_industrial_equipment",
             "documents_hr_recruitment_sign",
             "documents_hr_sign",
             "documents_spreadsheet_sign",
@@ -4082,6 +4083,7 @@
             "whatsapp_crm"
         ],
         "-": [
+            "custom_industrial_equipment",
             "esg_csrd",
             "esg_csrd_ai",
             "esg_csrd_hr",
