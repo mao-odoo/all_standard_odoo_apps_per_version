@@ -3793,6 +3793,7 @@
             "pet_groomer",
             "physical_therapy",
             "pos_cashdro",
+            "pos_cashmatic",
             "pos_dpopay",
             "pos_enterprise_sms_whatsapp",
             "pos_glory_cash",
@@ -4083,7 +4084,6 @@
             "whatsapp_crm"
         ],
         "-": [
-            "custom_industrial_equipment",
             "esg_csrd",
             "esg_csrd_ai",
             "esg_csrd_hr",
