@@ -3795,6 +3795,7 @@
             "night_clubs",
             "payment_ecpay",
             "payment_iyzico",
+            "payment_payu",
             "payment_redsys",
             "payment_toss_payments",
             "pet_groomer",
