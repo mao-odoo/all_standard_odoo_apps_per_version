@@ -26,13 +26,6 @@ with urlopen(OUR_MODULES_URL) as json_file:
     data = parse_diff(json.load(json_file))
 ```
 
-## OUR_MODULES.json  (deprecated)
-A file listing all the names of standard Odoo apps per version (community, design-themes, enterprise and inductry).
-It has been replaced by OUR_MODULES_DIFF.json
-
-> [!warning]
-> This file has last been updated on 2025-04-18, will not be updated going forward and will be removed at the end of 2025
-
 ## is_my_module_standard
 
 A basic script to check if a given list of modules are standard in version X.
