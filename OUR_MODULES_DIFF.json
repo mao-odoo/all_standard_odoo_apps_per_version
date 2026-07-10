@@ -4183,6 +4183,7 @@
         ],
         "-": [
             "account_peppol_response",
+            "account_pos_settle_due",
             "cake_shop",
             "coal_petroleum",
             "delivery_mondialrelay",
@@ -4211,6 +4212,7 @@
             "l10n_sa_withholding_tax",
             "l10n_us_hr_payroll_adp",
             "sport_events",
+            "test_account_pos_settle_due",
             "website_sale_autocomplete",
             "website_sale_mondialrelay",
             "wellness_practitioner"
