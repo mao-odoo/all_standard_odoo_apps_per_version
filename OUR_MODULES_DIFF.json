@@ -2685,7 +2685,8 @@
             "website_helpdesk_sale_loyalty",
             "website_sale_external_tax",
             "website_sale_mrp",
-            "website_sale_shiprocket"
+            "website_sale_shiprocket",
+            "whatsapp_identifiers"
         ],
         "-": [
             "account_avatax_sale_subscription",
@@ -2817,7 +2818,8 @@
             "test_industry",
             "test_industry_real_estate",
             "website_form_project",
-            "website_sale_mrp"
+            "website_sale_mrp",
+            "whatsapp_identifiers"
         ]
     },
     "saas~17.2": {
@@ -3298,7 +3300,8 @@
             "website_sale_gelato",
             "website_sale_mrp",
             "wedding_planner",
-            "whatsapp_hr_referral"
+            "whatsapp_hr_referral",
+            "whatsapp_identifiers"
         ],
         "-": [
             "account_consolidation",
@@ -3426,7 +3429,8 @@
             "sale_amazon_channel_management",
             "sms_twilio",
             "test_industry",
-            "website_sale_mrp"
+            "website_sale_mrp",
+            "whatsapp_identifiers"
         ]
     },
     "saas~18.2": {
@@ -3596,6 +3600,7 @@
             "website_sale_product_feed",
             "website_sale_stock_product_feed",
             "website_timesheet",
+            "whatsapp_identifiers",
             "yoga_pilates"
         ],
         "-": [
@@ -3753,7 +3758,9 @@
             "l10n_be_intervat",
             "l10n_be_pos_blackbox",
             "l10n_be_pos_blackbox_hr",
+            "l10n_be_pos_blackbox_hr_pos_blackbox_be",
             "l10n_be_pos_blackbox_loyalty",
+            "l10n_be_pos_blackbox_pos_blackbox_be",
             "l10n_be_pos_blackbox_self_order",
             "l10n_be_pos_blackbox_settle_due",
             "l10n_be_pos_blackbox_urban_piper",
@@ -3764,6 +3771,7 @@
             "l10n_es_intrastat",
             "l10n_es_reports_2025",
             "l10n_fi_intrastat",
+            "l10n_ge",
             "l10n_gt_edi_pos",
             "l10n_hk_hr_payroll_empf",
             "l10n_hr_intrastat",
@@ -3927,7 +3935,9 @@
             "l10n_be_hr_payroll_dimona_auto",
             "l10n_be_pos_blackbox",
             "l10n_be_pos_blackbox_hr",
+            "l10n_be_pos_blackbox_hr_pos_blackbox_be",
             "l10n_be_pos_blackbox_loyalty",
+            "l10n_be_pos_blackbox_pos_blackbox_be",
             "l10n_be_pos_blackbox_self_order",
             "l10n_be_pos_blackbox_settle_due",
             "l10n_be_pos_blackbox_urban_piper",
