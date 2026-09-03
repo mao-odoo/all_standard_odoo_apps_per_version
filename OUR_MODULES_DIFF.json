@@ -4047,6 +4047,7 @@
             "purchase_alternative_stock",
             "sale_project_enterprise",
             "sale_project_margin",
+            "sale_project_stock_account",
             "spreadsheet_dashboard_sale_timesheet_enterprise",
             "test_utm",
             "timesheet_grid_hr_attendance",
