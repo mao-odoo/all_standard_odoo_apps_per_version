@@ -4276,7 +4276,6 @@
             "l10n_pl_bank_verification",
             "l10n_sa_withholding_tax",
             "l10n_us_hr_payroll_adp",
-            "pos_sale_purchase_stock_inter_company_rules",
             "sport_events",
             "test_account_pos_settle_due",
             "website_sale_autocomplete",
@@ -4288,6 +4287,7 @@
         "+": [
             "account_direct_debit",
             "account_reports_spreadsheet",
+            "ai_account_reports",
             "ai_agentic",
             "ai_agentic_documents",
             "ai_agentic_knowledge",
